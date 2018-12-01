@@ -3,14 +3,14 @@ layout: post
 published: true
 title: First step towards AI - Hard Coding!
 subtitle: Hard Coding an Automated Shower
-gh-repo: syeddanish41/know-it-all-shower
+<!-- gh-repo: syeddanish41/know-it-all-shower
 gh-badge:
   - star
   - watch
-  - follow
-tags:
+  - follow -->
+<!-- tags:
   - Projects
-  - Automation
+  - Automation -->
 image: /img/first_step.jpg
 ---
 The term Artificial Intelligence has been around for more than half a century - it started out with a simple idea of automating the tasks requiring human intervention. It is the innate property of laziness(& innovation 😅) in humans that gave rise to this Idea - extending ourselves with intelligent "modules," which makes our lives easier/better.

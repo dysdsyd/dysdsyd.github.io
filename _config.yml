@@ -117,7 +117,7 @@ url-pretty: "http://syeddanish41.github.io"  # eg. "deanattali.com/beautiful-jek
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "syeddanish41"
 
 # Facebook App ID
 # fb_app_id: ""
