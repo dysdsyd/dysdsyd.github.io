@@ -117,14 +117,14 @@ url-pretty: "http://syeddanish41.github.io"  # eg. "deanattali.com/beautiful-jek
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "@syeddanish41"
+disqus: "syeddanish41-github-io-1"
 
 # Facebook App ID
 # fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 10
+excerpt_length: 20
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
