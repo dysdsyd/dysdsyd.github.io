@@ -69,10 +69,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "syeddanish41@gmail.com"
+  email: "syeddanish.ece@gmail.com"
   # facebook: 
   github: syeddanish41
-  twitter: syeddanish41
+  twitter: syeddanish_4
   linkedin: syeddanish41
 #  reddit: yourname
 #  google-plus: +DeanAttali
