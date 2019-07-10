@@ -7,6 +7,7 @@ use-site-title: true
 ---
 <div class="posts-list">
   {% for post in site.posts %}
+  {% if "Sprint 1" in post.excerpt %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -44,6 +45,7 @@ use-site-title: true
     {% endif %}
 
    </article>
+  {% endif %}
   {% endfor %}
 </div>
 
