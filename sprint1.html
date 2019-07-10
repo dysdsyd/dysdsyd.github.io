@@ -8,7 +8,7 @@ use-site-title: true
 
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.paginator.posts %}
 
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
