@@ -7,6 +7,4 @@ title: First Post
 subtitle: XX
 date: '2019-07-10'
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Sprint 1: Generative Modelling
