@@ -6,6 +6,7 @@ published: true
 ---
 
 <div class="posts-list">
+  <h2>{{ in site.tags.Projects }}</h2>
   {% for post in site.tags.Projects %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
