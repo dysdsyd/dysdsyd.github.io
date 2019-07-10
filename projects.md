@@ -4,7 +4,8 @@ title: Projects
 subtitle: My Work
 published: true
 ---
- <h2>{{ in site.tags.Projects }}</h2>
+ <h2>{{ in site.tags}}</h2>
+  <h2>{{ in site.posts}}</h2>
 <div class="posts-list">
   {% for post in site.tags.Projects %}
   <article class="post-preview">
