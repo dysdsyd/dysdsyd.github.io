@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Generative Modelling
-subtitle: Understanding the 3D attributes of 2D Images  
+subtitle: Understanding the 3D attributes of 2D Images
 published: true
 ---
 
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  {% if "sprint1" in post.tags %}
+  {% if post.tags == "sprint1" %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
