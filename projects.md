@@ -8,7 +8,7 @@ published: true
   {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.tags }}</h2>
+	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
