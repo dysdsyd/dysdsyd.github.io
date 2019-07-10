@@ -4,8 +4,6 @@ title: Generative Modelling
 subtitle: Understanding the 3D attributes of 2D Images
 published: true
 ---
-
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
