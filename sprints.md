@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 'Hi, I''m Danish'
-subtitle: I write about my thoughts & experiments here
-use-site-title: true
+title: Generative Modelling
+subtitle: Understanding the 3D attributes of 2D Images  
+published: true
 ---
 
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-  {% if "sprints" in post.tags %}
+  {% if "sprint1" in post.tags %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
