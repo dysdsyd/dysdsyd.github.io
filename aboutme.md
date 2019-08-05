@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Short bio
+published: True
 ---
 
 Hi, my name is Danish Syed. I am interested in understanding how machines can learn to build representation of our 3D world by observation and interaction.
