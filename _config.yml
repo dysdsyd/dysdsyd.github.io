@@ -25,7 +25,7 @@ description: Space
 navbar-links:
   About Me: "aboutme"
   Sprints: 
-    - 3D Scene Representation: "sprint1"
+    - Scene Representation: "sprint1"
   # Projects: "projects"
 #   Online-CV: "http://syeddanish41.github.io/online-cv"
   BLOG: "http://syeddanish41.github.io"
