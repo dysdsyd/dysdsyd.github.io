@@ -6,6 +6,7 @@ published: true
 use-site-title: true
 ---
 <div class="posts-list">
+  <p> Coming soon .. </p>
   {% for post in site.posts %}
   {% if {{post.subtitle}} == "Sprint Exercise" %}
   <article class="post-preview">
