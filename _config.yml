@@ -57,9 +57,9 @@ footer-link-col: "#404040"
 
 #navbar-img: "/img/bg/bg-concrete.png"
 #footer-img: "/img/bg/bg-concrete.png"
-navbar-img: "/img/bg/email-pattern.png"
-footer-img: "/img/bg/email-pattern.png"
-# page-img: "/img/bg/email-pattern.png"
+navbar-img: "/img/bg/gplaypattern.png"
+footer-img: "/img/bg/gplaypattern.png" 
+page-img: "/img/bg/email-pattern.png"
 
 # --- Footer options --- #
 
