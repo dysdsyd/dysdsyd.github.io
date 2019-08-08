@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Generative Modelling
-subtitle: Understanding the 3D attributes of 2D Images
+title: Scene Understanding
+subtitle: Can machines understand our 3D world through observation?
 published: true
 use-site-title: true
 ---
