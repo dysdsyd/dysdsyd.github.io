@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D Scene Representation
+title: Scene Representation
 subtitle: Can machines understand our 3D world through observation?
 published: true
 use-site-title: true
