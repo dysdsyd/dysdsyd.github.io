@@ -24,8 +24,8 @@ description: Space
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Sprints: 
-    - 3D Scene Representation: "sprint1"
+  #Sprints: 
+   # - 3D Scene Representation: "sprint1"
   # Projects: "projects"
 #   Online-CV: "http://dysdsyd.github.io/online-cv"
   Author's home: "http://dysdsyd.github.io"
