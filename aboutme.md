@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Hello, I`m Danish'
+title: 'Hello, I''m Danish'
 subtitle: Grad Student | ML Researcher | Decent Guy
 published: true
 ---
