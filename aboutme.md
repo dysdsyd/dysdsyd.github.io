@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Short bio
+title: 'Hello, I`m Danish'
+subtitle: Grad Student | ML Researcher | Decent Guy
 published: true
 ---
 
