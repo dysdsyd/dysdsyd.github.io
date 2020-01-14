@@ -5,7 +5,7 @@ subtitle: Grad Student | ML Researcher | Decent Guy
 published: true
 ---
 
-Hi there, my name is Danish Syed. I am interested in understanding how machines can learn to build representation of our 3D world through observation or interaction.
+I am interested in understanding how machines can learn to build representation of our 3D world through observation or interaction.
 
 Towards this end, I am joining EECS Department at University of Michigan, Ann Arbor this fall as a graduate student. Previously I worked as a Data Scientist at ZS Associates in Pune. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging insustry problems across Healthcare, Gaming and Software domain.
 
