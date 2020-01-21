@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 3D Scene Representation
-subtitle: Can machines understand our 3D world through observation?
+title: 3D Computer Vision
+subtitle: Notes on various topics related to 3D computer vision that I find interesting
 published: true
 use-site-title: true
 ---
 <div class="posts-list">
-  <p> Coming soon .. </p>
+  
   {% for post in site.posts %}
   {% if {{post.subtitle}} == "3D Computer Vision Notes" %}
   <article class="post-preview">
