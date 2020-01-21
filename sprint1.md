@@ -8,7 +8,7 @@ use-site-title: true
 <div class="posts-list">
   <p> Coming soon .. </p>
   {% for post in site.posts %}
-  {% if {{post.subtitle}} == "Sprint Exercise" %}
+  {% if {{post.subtitle}} == "3D Computer Vision Notes" %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
