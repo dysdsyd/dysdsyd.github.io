@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D CV
+title: 3D-CV
 subtitle: Notes on various topics related to 3D computer vision that I find interesting
 published: true
 use-site-title: true
