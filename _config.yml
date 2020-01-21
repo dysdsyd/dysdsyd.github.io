@@ -25,7 +25,7 @@ description: Space
 navbar-links:
   About: "aboutme"
   Notes: 
-    - 3D Computer Vison: "3D Computer Vision Notes"
+    - 3D Computer Vison: "sprint1"
   # Projects: "projects"
   Blog: "http://dysdsyd.github.io"
   Resume: "https://dysdsyd.github.io/online-cv/"
