@@ -6,7 +6,7 @@ use-site-title: true
 published: true
 ---
 
-I am a Masters student in Electrical & Computer Enginerring at the University of Michigan -Ann Arbor.  
+I am a Masters student in Electrical & Computer Enginerring at the University of Michigan, Ann Arbor.  
 Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging insustry problems across Healthcare, Gaming and Software domain.
 
 ### Research Interest  
