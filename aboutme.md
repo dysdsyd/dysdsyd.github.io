@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Hello, I''m Danish'
-subtitle: Grad Student | ML Researcher | Decent Guy
+title: Danish Syed
+subtitle: dasyed at umich dot edu
 published: true
 ---
 
