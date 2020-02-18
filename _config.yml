@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://dysdsyd.github.io"
-baseurl: ""
+baseurl: "aboutme"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -24,10 +24,10 @@ description: Space
 # List of links in the navigation bar
 navbar-links:
   Notes: 
-    - 3D-CV: "sprint1"
+    - 3D Computer Vision: "sprint1"
   # Projects: "projects"
   Blog: "http://dysdsyd.github.io"
-  About: "aboutme"
+  Home: "aboutme"
   Resume: "https://dysdsyd.github.io/online-cv/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
