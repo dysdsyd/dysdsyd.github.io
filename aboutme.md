@@ -8,14 +8,14 @@ published: true
 I am a Masters student in Electrical & Computer Enginerring at the University of Michigan -Ann Arbor.  
 Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging insustry problems across Healthcare, Gaming and Software domain.
 
-## Research Interest
+### Research Interest
 I'm interested in understanding how machines can learn to build representation of our 3D world through observation or interaction.  
 
-## News
+### News
 **[Jan 2020]** Serving as a TA for the Arch 662 - Architecture & Artificial Intelligence  
 **[Sep 2019]** Started as a Masters student at the University of Michigan!  
 
-## Publications
+### Publications
 🚧 Work in progress 🚧
 
 
