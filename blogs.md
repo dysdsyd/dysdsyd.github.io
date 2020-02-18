@@ -25,6 +25,14 @@ published: true
     </p>
 
     <div class="post-entry">
+    
+    {% if post.image %}
+    	<div class="post-image">
+    		<a href="{{ post.url | prepend: site.baseurl }}">
+    		<img src="{{ post.image }}">
+    		</a>
+     	</div>
+    {% endif %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
       {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
