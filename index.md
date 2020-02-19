@@ -19,3 +19,7 @@ I'm interested in understanding how machines can learn to build representation o
 ## Publications  
 🚧 Work in progress 🚧
 
+## Projects
+
+![10A60537-EF99-4E65-898E-A38F7C246873-1.jpg]({{site.baseurl}}/img/10A60537-EF99-4E65-898E-A38F7C246873-1.jpg)  hello
+
