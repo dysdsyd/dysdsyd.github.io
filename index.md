@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danish Syed
-subtitle: dasyed at umich dot edu  Github / LinkedIn / Twitter
+subtitle: dasyed at umich dot edu Github / LinkedIn / Twitter
 use-site-title: true
 published: true
 ---
