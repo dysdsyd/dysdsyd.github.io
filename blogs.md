@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes/ Projects / Misc
+title: BLOG
 subtitle: null
 published: true
 show-avatar: false
