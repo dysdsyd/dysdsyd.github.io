@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome!
-subtitle: Danish's personal webpage and blog
+title: Blog
+subtitle: Notes / Projects / Random Spitting
 published: true
 ---
 
