@@ -3,6 +3,7 @@ layout: page
 title: Blog
 subtitle: Notes / Projects / Misc
 published: true
+show-avatar: false
 ---
 
 
