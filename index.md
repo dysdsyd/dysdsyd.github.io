@@ -4,6 +4,7 @@ title: Danish Syed
 subtitle: dasyed at umich dot edu
 use-site-title: true
 published: true
+show-avatar: true
 ---
 
 I am a Masters student in Electrical & Computer Enginerring at the University of Michigan, Ann Arbor.  
