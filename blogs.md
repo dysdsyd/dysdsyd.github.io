@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BLOG
-subtitle: Notes/ Projects / Misc
+subtitle: Notes / Projects / Misc
 published: true
 show-avatar: false
 ---
