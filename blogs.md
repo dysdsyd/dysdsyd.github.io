@@ -4,6 +4,7 @@ title: BLOG
 subtitle: Notes / Projects / Misc
 published: true
 show-avatar: false
+image: /img/M.png
 ---
 
 
