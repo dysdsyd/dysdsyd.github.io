@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ''
-subtitle: Notes / Projects / Misc
+title: Notes/ Projects / Misc
+subtitle: null
 published: true
 show-avatar: false
 ---
