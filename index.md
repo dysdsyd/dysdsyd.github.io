@@ -18,4 +18,3 @@ I'm interested in understanding how machines can learn to build representation o
 
 ## Publications  
 🚧 Work in progress 🚧
-
