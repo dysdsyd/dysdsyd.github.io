@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Notes / Projects / Random Spitting
+subtitle: Notes / Projects / Misc
 published: true
 ---
 
