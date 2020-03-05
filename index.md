@@ -7,11 +7,11 @@ published: true
 show-avatar: true
 ---
 
-I am a Masters student in Electrical & Computer Enginerring at the University of Michigan, Ann Arbor.  
-Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging insustry problems across Healthcare, Gaming and Software domain.
+I am a Masters student in Electrical & Computer Enginerring specializing in Computer Vision at the University of Michigan, Ann Arbor.  
+Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging problems across Healthcare, Gaming and Software domain.
 
 ## Research Interest  
-I'm interested in understanding how machines can learn to build representation of our 3D world through observation or interaction.  
+I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction.  
 
 ## News  
 **[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://taubmancollege.umich.edu/students/course-list/architecture-662-thesis-studio-2g43g7-winter-2020)  
