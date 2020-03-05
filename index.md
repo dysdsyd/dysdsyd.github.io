@@ -7,7 +7,7 @@ published: true
 show-avatar: true
 ---
 
-I am a Masters student in Electrical & Computer Enginerring specializing in Computer Vision at the University of Michigan, Ann Arbor.  
+I am a Masters student in Electrical & Computer Engineering department at the University of Michigan, Ann Arbor.  
 Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging problems across Healthcare, Gaming and Software domain.
 
 ## Research Interest  
