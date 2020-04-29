@@ -7,7 +7,7 @@ published: true
 show-avatar: true
 ---
 
-I am a Masters student in Electrical & Computer Engineering department at the University of Michigan, Ann Arbor. I am enrolled in the Computer Vision track where my focus is on mathematical and algorithmic aspect of Computer Vision. 
+I am a Masters student in Electrical & Computer Engineering department at the University of Michigan, Ann Arbor. I am enrolled in the Computer Vision track where my focus is on mathematical and algorithmic aspect of Computer Vision.   
 Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging problems across Healthcare, Gaming and Software domain.
 
 ## Research Interest  
@@ -15,6 +15,4 @@ I'm interested in understanding how machines can learn to build the underlying r
 
 ## News  
 **[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://taubmancollege.umich.edu/students/course-list/architecture-662-thesis-studio-2g43g7-winter-2020)  
-**[Sep 2019]** Started as a Masters student at the University of Michigan!  
-
-
+**[Sep 2019]** Started as a Masters student at the University of Michigan!
