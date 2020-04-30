@@ -16,3 +16,7 @@ I'm interested in understanding how machines can learn to build the underlying r
 ## News  
 **[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://taubmancollege.umich.edu/students/course-list/architecture-662-thesis-studio-2g43g7-winter-2020)  
 **[Sep 2019]** Started as a Masters student at the University of Michigan!
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/dysdsyd maxwidth=500 limit=5 %}
+</div>
