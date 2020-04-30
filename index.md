@@ -14,5 +14,5 @@ Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I
 I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction. To this extent, I am currently working on understanding the reperesentation of gemoteric kernel like Graph Convolutions for mesh representation.  
 
 ## News  
-**[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://taubmancollege.umich.edu/students/course-list/architecture-662-thesis-studio-2g43g7-winter-2020) [[Final Review](https://arch-ai.org)]  
+**[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)
 **[Sep 2019]** Started as a Masters student at the University of Michigan!
