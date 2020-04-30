@@ -226,6 +226,3 @@ prose:
 
 plugins:
   - jekyll-paginate
-  - jekyll-gist
-  
- 
