@@ -18,5 +18,3 @@ I'm interested in understanding how machines can learn to build the underlying r
 **[Jan 2020]** Serving as a TA for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)  
 **[Sep 2019]** Started as a Masters student at the University of Michigan!
 
-## Projects
-![image](img/project.jpg){: style="float: left"} Some text.
