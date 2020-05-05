@@ -7,7 +7,7 @@ published: true
 show-avatar: true
 ---
 
-I am a Masters student in Electrical & Computer Engineering department at the University of Michigan, Ann Arbor. I am enrolled in the Computer Vision track where my focus is on mathematical and algorithmic aspect of Computer Vision.   
+I am a Masters student in Electrical & Computer Engineering department at the University of Michigan, Ann Arbor. I am enrolled in the Computer Vision track where my focus is on 3D Computer Vision and Geometric Deep Learning.  
 Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I applied the concepts of Computer Vision, Natural Language Processing and Machine Learning to solve challenging problems across Healthcare, Gaming and Software domain.
 
 ## Research Interest  
