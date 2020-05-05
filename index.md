@@ -20,4 +20,4 @@ I'm interested in understanding how machines can learn to build the underlying r
 
 ## Projects
 ![image](/img/project.jpg){: style="float: left"}
-Some text.
+  Some text.
