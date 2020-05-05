@@ -19,5 +19,4 @@ I'm interested in understanding how machines can learn to build the underlying r
 **[Sep 2019]** Started as a Masters student at the University of Michigan!
 
 ## Projects
-![image](/img/project.jpg =10*10){: style="float: left"}
-  Some text.
+![image](/img/project.jpg =10*10){: style="float: left"} Some text.
