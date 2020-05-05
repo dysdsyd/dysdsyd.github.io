@@ -3,7 +3,7 @@ layout: page
 title: Danish Syed
 subtitle: dasyed at umich dot edu
 use-site-title: true
-published: false
+published: true
 show-avatar: true
 ---
 
