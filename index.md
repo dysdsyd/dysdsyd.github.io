@@ -14,6 +14,7 @@ Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. I
 ## Research Interest  
 I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction. 
 
+<span class="fa fa-briefcase about-icon"></span>
 ## News  
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the University of Michigan!
