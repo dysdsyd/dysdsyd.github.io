@@ -1,8 +1,13 @@
 ---
 layout: post
 published: false
-title: Rasterization
+title: Loss Diary
 ---
-## A New Post
+If you are stumbled onto this page expecting something tragic, let me warn you - IT IS NOT! This is just my notes for collating the loss functions that I keep track of for different Machine Learning problems and paradigms.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Jump to different categories of losses which is divided on the basis of usecase in different sub-domains of Machine Learning:
+
+- Object Detection
+- Object Tracking
+- Mesh based losses  
+- Pointcloud based losses
