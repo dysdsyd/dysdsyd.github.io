@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Loss Diary
 ---
 If you are stumbled onto this page expecting something tragic, let me warn you - IT IS NOT! This is just my notes for collating the loss functions that I keep track of for different Machine Learning problems and paradigms.
