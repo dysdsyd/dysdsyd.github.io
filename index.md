@@ -7,7 +7,7 @@ published: true
 show-avatar: true
 ---
 
-I am a [EECS](https://eecs.engin.umich.edu) Masters student at the [University of Michigan](https://umich.edu), Ann Arbor. Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. Before that I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
+I am a [EECS](https://eecs.engin.umich.edu) Masters student at the [University of Michigan](https://umich.edu), Ann Arbor. Previously, I worked as a Data Scientist at [ZS](https://www.zs.com) in India. Prior to that, I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
 
 My research interest lies in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction. 
 
