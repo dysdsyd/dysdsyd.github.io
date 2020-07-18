@@ -20,6 +20,6 @@ I'm interested in understanding how machines can learn to build the underlying r
 
 ## Teaching & Service
 
-**Teaching Assistant**(Winter '20) for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)  
-**Workshop Instructor**(Summer '20) at [Deepdesign: Architecture & 3D Neural Networks](https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger)
+**Teaching Assistant** (Winter '20) for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)  
+**Workshop Instructor** (Summer '20) at [Deepdesign: Architecture & 3D Neural Networks](https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger)
 
