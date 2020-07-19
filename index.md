@@ -19,13 +19,15 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!
 
 
+
 ## Projects
 ---
 [**SICGAN**](https://github.com/dysdsyd/SICGAN)  
-An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to getbetter qualitative 3D reconstructions as compared to the baseline.
+An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
 
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
 A Bi-Directional Attention Flow network (BiDAF) based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database 
+
 
 
 ## Teaching & Service
