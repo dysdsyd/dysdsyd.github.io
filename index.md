@@ -11,24 +11,24 @@ I am a [EECS](https://eecs.engin.umich.edu) Masters student at the [University o
 
 Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and Video Understanding. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction. 
 
----
+
 
 ## News  
+---
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!
 
----
 
 ## Projects
-
+---
 [**SICGAN**](https://github.com/dysdsyd/SICGAN)  
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to getbetter qualitative 3D reconstructions as compared to the baseline.
 
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
 A Bi-Directional Attention Flow network (BiDAF) based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database 
 
----
 
 ## Teaching & Service
+---
 **Workshop Instructor** (Summer '20) at [Deepdesign: Architecture & 3D Neural Networks](https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger)  
 **Teaching Assistant** (Winter '20) for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)
