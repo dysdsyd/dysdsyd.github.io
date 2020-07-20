@@ -22,7 +22,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 
 ### Projects
 ---
-[**SICGAN**](https://github.com/dysdsyd/SICGAN)  [report](/files/SICGAN.pdf)
+[**SICGAN**](https://github.com/dysdsyd/SICGAN)  
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
 
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
