@@ -9,8 +9,10 @@ show-avatar: true
 
 I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). Previously worked as a Data Scientist at [ZS](https://www.zs.com) India, where I applied the concepts of Computer Vision and Natural Language Processing to innovate solutions across Healthcare, Gaming and Software domain. Prior to that, I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
 
-Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and Video Understanding. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction. 
+Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and Video Understanding. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction.  
 
+
+[GitHub](https://github.com/dysdsyd) / [Twitter](https://twitter.com/dysdsyd) / [LinkedIn](https://linkedin.com/in/dysdsyd)
 
 
 ### News  
