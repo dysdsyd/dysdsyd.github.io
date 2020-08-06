@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Loss Diary - WIP
 ---
-
+![](/img/wip.jpg)
 
 ## Content
 - [Classification Loss](#cls)
