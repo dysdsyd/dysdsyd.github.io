@@ -1,8 +1,10 @@
 ---
 layout: post
 published: true
-title: Loss Diary
+title: Loss Diary - WIP
 ---
+![]({{site.baseurl}}/http://www.foxbyrd.com/wp-content/uploads/2018/02/file-4.jpg)
+
 ## Content
 - [Classification Loss](#cls)
 
