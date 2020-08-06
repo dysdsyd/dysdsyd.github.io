@@ -7,7 +7,7 @@ title: Loss Diary
 - [Classification Loss](#cls)
 
 
-
+---
 <a name="cls"></a>
 ### Classification Losses
  
