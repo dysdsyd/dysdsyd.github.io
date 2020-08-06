@@ -3,17 +3,19 @@ layout: post
 published: true
 title: Loss Diary
 ---
+# Content
+- [Classification Loss](#cls)
 
 
 
-
+<a name="cls"></a>
 ## Classification Losses
  
 **Notations:**  
-$$ f = Classification Model $$   
-$$  x = Input $$  
-$$ y = Target Class $$   
-$$ s_{i} = f\left(x_{i}, W\right) = Score for the i-th class $$  
+$$f$$ = Classification Model  
+$$x$$= Input  
+$$y$$ = Target Class  
+$$s_{i} = f\left(x_{i}, W\right)$$ = Score for the i-th class  
 
 ### Multiclass SVM Loss / Hinge Loss
 SVM loss is set up so that the SVM “wants” the correct class for each image to a have a score higher than the incorrect classes by some fixed margin $$\Delta$$. Multiclass SVM Loss for the i-th class would be:
