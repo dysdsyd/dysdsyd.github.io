@@ -9,9 +9,10 @@ title: Loss Diary
 
 ## Classification Losses
 $$  
-f : Classification Model  
-x : Input  
-y : Class  
+f = Classification Model  
+x = Input  
+y = Target Class 
+s_{i} = f\left(x_{i}, W\right) = Score for the i-th class
 $$
 
 ### Multiclass SVM Loss / Hinge Loss
@@ -19,7 +20,9 @@ SVM loss is set up so that the SVM “wants” the correct class for each image 
 
 $$ 
 L_{i}=\sum_{j \neq y_{i}} \max \left(0, s_{j}-s_{y_{i}}+\Delta\right)  
-s_{i} = f\left(x_{i}, W\right)
 $$
 
 ### Cross-Entropy Loss
+We interpret the scores as the unnormalized log probabilities for each class and we define Cross-Entropy loss as:
+
+$$L_{i}=-\log \left(\frac{e^{f_{y_{i}}}}{\sum_{j} e^{f_{j}}}\right) \quad \text { or equivalently } \quad L_{i}=-f_{y_{i}}+\log \sum_{j} e^{f_{j}}$$
