@@ -6,9 +6,8 @@ title: Loss Diary
 ## Content
 - [Classification Loss](#cls)
 
-
----
 <a name="cls"></a>
+---
 ### Classification Losses
  
 **Notations:**  
