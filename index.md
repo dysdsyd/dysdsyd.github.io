@@ -31,6 +31,6 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 ### Teaching & Service
 ---
-**Graduate Student Instructor** (Fall '20) for [EECS 498/598  Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+**Graduate Student Instructor** (Fall '20) for [EECS 498/598 - Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)  
 **Workshop Instructor** (Summer '20) at [Deepdesign: Architecture & 3D Neural Networks](https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger)  
 **Teaching Assistant** (Winter '20) for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)
