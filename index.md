@@ -18,24 +18,6 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 
 
-<div class="posts-list">
-  {% for post in site.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h4 class="post-title">{{ post.title }}</h4>
-    </a>
-    <div class="post-entry">
-    	<div class="post-image">
-    		<a href="{{ post.url | prepend: site.baseurl }}">
-    		<img src="{{ post.image }}">
-    		</a>
-     	</div>
-     </div>
-   </article>
-  {% endfor %}
-</div>
-
-
 ### Projects
 ---
 [**SICGAN**](https://github.com/dysdsyd/SICGAN)  
