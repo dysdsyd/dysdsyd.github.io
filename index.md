@@ -26,17 +26,12 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 	  <h4 class="post-title">{{ post.title }}</h4>
     </a>
     <div class="post-entry">
-    
-
     	<div class="post-image">
     		<a href="{{ post.url | prepend: site.baseurl }}">
     		<img src="{{ post.image }}">
     		</a>
      	</div>
-
      </div>
-
-
    </article>
    {% endif %}
   {% endfor %}
