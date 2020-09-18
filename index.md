@@ -20,7 +20,6 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 
 <div class="posts-list">
   {% for post in site.posts %}
-  {% if {{post.subtitle}} != "Sprint Exercise" %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h4 class="post-title">{{ post.title }}</h4>
@@ -33,7 +32,6 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
      	</div>
      </div>
    </article>
-   {% endif %}
   {% endfor %}
 </div>
 
