@@ -19,7 +19,35 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 
 
 ### Publication
+/img/deepg.png
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
+<!--------------------------------------------------------------------------->
+<!------------------------------------------------------------------------ -->
+<!-- DeepGamble --> 
+<tbody><td width="25%"><!-- Image -->
+<img src='/img/deepg.png'  class="" width="100%">
+</td>
+<!-- Paper Info -->
+<td valign="top" width="70%">
+<p><papertitle>
+DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models
+</papertitle>
+<br>
+<u>Danish Syed</u>*, Naman Gandhi*, Arushi Arora* and Nilesh Kadam
+<br>
+<em>ICMLA 2020</em>
+<br>
+
+<!-- Additional Links -->
+[<a href="">paper</a>] [<a href="">project</a>]
+</p>
+
+<p> 
+
+</p>
+</td> </tbody>
+</table>
 
 ### Projects
 ---
