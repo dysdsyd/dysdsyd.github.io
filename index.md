@@ -31,7 +31,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <!-- Paper Info -->
 <td valign="top" width="70%">
 <p><papertitle>
-DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models
+<b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models</b>
 </papertitle>
 <br>
 <u>Danish Syed</u>*, Naman Gandhi*, Arushi Arora* and Nilesh Kadam
