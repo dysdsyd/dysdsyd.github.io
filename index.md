@@ -27,6 +27,38 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 A Bi-Directional Attention Flow network based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database  
 
 
+<!-- SICGAN --> 
+<tbody>
+<td width="25%">
+<img src='/img/M.png'  class="" width="100%">
+</td>
+
+<!-- Paper Info -->
+<td valign="top" width="70%">
+
+<p><papertitle>
+SICGAN: Single Image 3D Reconstruction based on Conditional GAN
+</papertitle>
+<br>
+<u>Danish Syed</u>*, Manas Jyoti* and Hansal Shah*
+<br>
+<em>EECS 542: Intro to Computer Vision</em>
+<br>
+
+<!-- Additional Links -->
+[<a href="https://github.com/dysdsyd/SICGAN">code</a>]
+<!-- | 
+<a href="./novelviewpoints/elbanani2020novelvp-supp.pdf">supplementary</a>
+| 
+<a href="https://github.com/mbanani/novelviewpoints">code</a>
+|
+<a href="./novelviewpoints/bibtex.txt">bibtex</a> -->
+</p>
+
+<p> 
+An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
+</td> </tr> </tbody>
+
 
 ### Teaching & Service
 ---
