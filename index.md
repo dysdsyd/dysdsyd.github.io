@@ -62,17 +62,11 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-<tbody><tr> <td width="100%" valign="middle">
-<heading>Teaching</heading>
-</td> </tr> </tbody></table>
-
-
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tbody>
 
 <!-- Image -->
 <td width="30%">
-<center> <img src='./images/magritte_pipe_cv.jpg' width="100%" alt="Picture Source: UC Berkeley Vision Group"> </center>
+<center> <img src='/img/magritte_pipe_cv.jpg' width="100%" alt="Picture Source: UC Berkeley Vision Group"> </center>
 <center><figcaption>
 <a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/image/margritti-this-is-not-a-pipe.jpg">source</a>
 </figcaption></center>            
@@ -101,4 +95,4 @@ TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-c
 <a href="http://www.span-arch.org/">Sandra Manninger</a>
 </p>
 
-</td> </tr> </tbody></table>
+</td> </tbody></table>
