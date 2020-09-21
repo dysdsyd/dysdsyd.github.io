@@ -22,10 +22,9 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" border="none">
 
-<!--------------------------------------------------------------------------->
-<!------------------------------------------------------------------------ -->
 <!-- DeepGamble --> 
-<tbody><td width="25%" border="none"><!-- Image -->
+<tbody><td width="25%" border="none">
+<!-- Image -->
 <img src='/img/deepg.png'  class="" width="100%">
 </td>
 <!-- Paper Info -->
@@ -43,9 +42,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 [<a href="">paper</a>] [<a href="">project</a>]
 </p>
 
-<p> 
-
-</p>
+<p> </p>
 </td> </tbody>
 </table>
 
