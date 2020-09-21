@@ -74,7 +74,6 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 <!-- Teaching part -->
 <td valign="center" width="70%">
-        
 <p> 
 <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/">EECS 598: Deep Learning for Computer Vision (Fall '20)</a>
 <br>
