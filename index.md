@@ -48,12 +48,6 @@ SICGAN: Single Image 3D Reconstruction based on Conditional GAN
 
 <!-- Additional Links -->
 [<a href="https://github.com/dysdsyd/SICGAN">code</a>]
-<!-- | 
-<a href="./novelviewpoints/elbanani2020novelvp-supp.pdf">supplementary</a>
-| 
-<a href="https://github.com/mbanani/novelviewpoints">code</a>
-|
-<a href="./novelviewpoints/bibtex.txt">bibtex</a> -->
 </p>
 
 <p> 
