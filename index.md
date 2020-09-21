@@ -11,13 +11,13 @@ I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Mi
 
 Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and 3D Computer Vision. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction.  
 
-
+<br>
 ### News  
 ---
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 
-
+<br>
 ### Publication
 ---
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
@@ -46,6 +46,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 </td> </tbody>
 </table>
 
+<br>
 ### Projects
 ---
 [**SICGAN**](https://github.com/dysdsyd/SICGAN)  
@@ -54,7 +55,7 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
 A Bi-Directional Attention Flow network based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database  
 
-
+<br>
 ### Teaching & Service
 ---
 **Graduate Student Instructor** (Fall '20) for [EECS 498/598 - Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)  
