@@ -20,7 +20,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 
 ### Publication
 ---
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" border="none">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" border-collapse="collapse">
 
 <!-- DeepGamble --> 
 <tbody><td width="25%" border="none">
