@@ -21,7 +21,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
 <!-- DeepGamble --> 
 <tbody>
-<td width="25%" border="0px">
+<td width="25%" border="0px" border-radius="50%">
 <!-- Image -->
 <img src='/img/deepg.png'  class="" width="100%">
 </td>
