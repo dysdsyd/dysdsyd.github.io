@@ -22,7 +22,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
-### Publication
+### Publications
 ---
 _* denotes equal contribution_
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
