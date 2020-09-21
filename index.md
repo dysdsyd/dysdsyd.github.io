@@ -6,6 +6,11 @@ use-site-title: true
 published: true
 show-avatar: true
 ---
+<style>
+  .img1 {
+    border-radius: 50%;
+    }
+</style>
 
 I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). Previously worked as a Data Scientist at [ZS](https://www.zs.com) India, where I applied the concepts of Computer Vision and Natural Language Processing to innovate solutions across Healthcare, Gaming and Software domain. Prior to that, I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
 
@@ -24,7 +29,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <tbody>
 <td width="25%" border="0px">
 <!-- Image -->
-<img src='/img/deepg.png'  class="" width="100%" border-radius="50%">
+<img src='/img/deepg.png'  class="" width="100%" class="img1">
 </td>
 <!-- Paper Info -->
 <td valign="top" width="70%" border="0px">
