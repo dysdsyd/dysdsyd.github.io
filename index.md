@@ -24,6 +24,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <br>
 ### Publication
 _* denotes equal contribution_
+
 ---
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
 <!-- DeepGamble --> 
