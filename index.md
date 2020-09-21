@@ -19,16 +19,16 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 
 
 ### Publication
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" border="None">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" border="none">
 
 <!--------------------------------------------------------------------------->
 <!------------------------------------------------------------------------ -->
 <!-- DeepGamble --> 
-<tbody><td width="25%"><!-- Image -->
+<tbody><td width="25%" border="none"><!-- Image -->
 <img src='/img/deepg.png'  class="" width="100%">
 </td>
 <!-- Paper Info -->
-<td valign="top" width="70%">
+<td valign="top" width="70%" border="none">
 <p><papertitle>
 <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models</b>
 </papertitle>
