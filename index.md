@@ -22,12 +22,13 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 ---
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
 <!-- DeepGamble --> 
-<tbody><td width="25%" border="none">
+<tbody>
+<td width="25%" border="0px">
 <!-- Image -->
 <img src='/img/deepg.png'  class="" width="100%">
 </td>
 <!-- Paper Info -->
-<td valign="top" width="70%" border="none">
+<td valign="top" width="70%" border="0px">
 <p><papertitle>
 <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models</b>
 </papertitle>
