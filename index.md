@@ -59,8 +59,46 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
 A Bi-Directional Attention Flow network based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database  
 <br>
-### Teaching & Service
+### Teaching
 ---
-**Graduate Student Instructor** (Fall '20) for [EECS 498/598 - Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)  
-**Workshop Instructor** (Summer '20) at [Deepdesign: Architecture & 3D Neural Networks](https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger)  
-**Teaching Assistant** (Winter '20) for [Arch 662 - Architecture & Artificial Intelligence](https://arch-ai.org)
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tbody><tr> <td width="100%" valign="middle">
+<heading>Teaching</heading>
+</td> </tr> </tbody></table>
+
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tbody>
+
+<!-- Image -->
+<td width="30%">
+<center> <img src='./images/magritte_pipe_cv.jpg' width="100%" alt="Picture Source: UC Berkeley Vision Group"> </center>
+<center><figcaption>
+<a href="https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/image/margritti-this-is-not-a-pipe.jpg">source</a>
+</figcaption></center>            
+</td>
+
+<!-- Teaching part -->
+<td valign="center" width="70%">
+        
+<p> 
+<a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/">EECS 598: Deep Learning for Computer Vision (Fall '20)</a>
+<br>
+GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>         
+</p>
+
+<p>     
+<a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger">Deepdesign: Architecture & 3D Neural Networks (Summer '20')</a>
+<br> 
+Workshop Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & 
+<a href="http://www.span-arch.org/">Sandra Manninger</a>
+</p>
+          
+<p>     
+<a href="https://arch-ai.org/">Arch 662 - Architecture & Artificial Intelligence (Winter '20) </a>
+<br> 
+TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & 
+<a href="http://www.span-arch.org/">Sandra Manninger</a>
+</p>
+
+</td> </tr> </tbody></table>
