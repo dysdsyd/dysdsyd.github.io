@@ -37,9 +37,9 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 <!-- Paper Info -->
 <td valign="top" width="70%">
 
-<p><h3>
+<p><b>
 SICGAN: Single Image 3D Reconstruction based on Conditional GAN
-</h3>
+</b>
 <br>
 <u>Danish Syed</u>*, Manas Jyoti* and Hansal Shah*
 <br>
@@ -52,7 +52,7 @@ SICGAN: Single Image 3D Reconstruction based on Conditional GAN
 
 <p> 
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
-</td> </tr> </tbody></table>
+</td>  </tbody></table>
 
 
 ### Teaching & Service
