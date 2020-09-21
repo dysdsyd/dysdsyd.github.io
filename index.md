@@ -44,7 +44,7 @@ _* denotes equal contribution_
 <br>
 
 <!-- Additional Links -->
-[<a href="">paper</a>] [<a href="">project</a>]
+[<a href="">paper</a>] [<a href="">project</a>] Coming soon!
 </p>
 
 <p> </p>
