@@ -13,6 +13,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <br>
 ### News  
 ---
+**[Sep 2020]** Paper selected at ICMLA 2020 for my work at ZS](https://www.zs.com)!
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
