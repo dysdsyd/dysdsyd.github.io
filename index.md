@@ -26,6 +26,7 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 [**MedLens**](https://github.com/dysdsyd/MedLens)  
 A Bi-Directional Attention Flow network based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database  
 
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 <!-- SICGAN --> 
 <tbody>
@@ -36,9 +37,9 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 <!-- Paper Info -->
 <td valign="top" width="70%">
 
-<p><papertitle>
+<p><h3>
 SICGAN: Single Image 3D Reconstruction based on Conditional GAN
-</papertitle>
+</h3>
 <br>
 <u>Danish Syed</u>*, Manas Jyoti* and Hansal Shah*
 <br>
@@ -57,7 +58,7 @@ SICGAN: Single Image 3D Reconstruction based on Conditional GAN
 
 <p> 
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
-</td> </tr> </tbody>
+</td> </tr> </tbody></table>
 
 
 ### Teaching & Service
