@@ -76,9 +76,9 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
   GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>
 <br><br>
   <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-	manninger">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
-  Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & <a href="http://www.span-arch.org/">Sandra Manninger</a>
+  Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
 <br><br>
   <a href="https://arch-ai.org/">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
-TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & <a href="http://www.span-arch.org/">Sandra Manninger</a>
+TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
   </p>
 </td> </tbody></table>
