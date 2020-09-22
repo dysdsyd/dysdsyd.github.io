@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danish Syed
-subtitle: dasyed at umich dot edu
+subtitle: 'dasyed [at] umich [dot] edu'
 use-site-title: true
 published: true
 show-avatar: true
