@@ -35,7 +35,7 @@ _* denotes equal contribution_
 <!-- Paper Info -->
 <td valign="top" width="70%" border="0px">
 <p><papertitle>
-<b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection models</b>
+<b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection</b>
 </papertitle>
 <br>
 <u>Danish Syed</u>*, Naman Gandhi*, Arushi Arora* and Nilesh Kadam
