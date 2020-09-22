@@ -65,7 +65,7 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 <tbody>
 <!-- Image -->
 <td width="30%">
-<center> <img src='/img/um.jpg' width="100%" > </center>
+<center> <img src='/img/um.jpg' width="100%" class="img1"> </center>
 </td>
 
 <!-- Teaching part -->
