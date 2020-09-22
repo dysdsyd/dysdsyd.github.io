@@ -17,7 +17,7 @@ I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Mi
 Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and 3D Computer Vision. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction.  
 <br>
 ### News  
-<hr width="100%" size="40" color="black" noshade> 
+<hr width="100%" size="10%" color="black"> 
 **[Sep 2020]** Paper with [Naman Gandhi](https://www.linkedin.com/in/namangandhi/) & [Arushi Arora](https://www.linkedin.com/in/arushiarora/) accepted at ICMLA 2020!  
 **[Jun 2020]** Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
 **[Sep 2019]** Started as a Masters student at the [University of Michigan](https://umich.edu)!  
