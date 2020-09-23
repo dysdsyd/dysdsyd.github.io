@@ -20,7 +20,7 @@ Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.e
 <hr width="100%" size="50%" color="black"> 
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;Paper with [Naman Gandhi](https://www.linkedin.com/in/namangandhi/) & [Arushi Arora](https://www.linkedin.com/in/arushiarora/) accepted at ICMLA 2020!  
 **[Jun 2020]** &nbsp;&nbsp;&nbsp;Started as Computer Vision Engineer Intern at [Intvo Inc](https://intvo.com)    
-**[Sep 2019]** &nbsp;&nbsp&nbsp;;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
+**[Sep 2019]** &nbsp;&nbsp;&nbsp;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
 ### Publications
 ---
