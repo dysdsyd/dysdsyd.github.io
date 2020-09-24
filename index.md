@@ -14,7 +14,7 @@ show-avatar: true
 
 I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). I am interested in geometric deep learning, representation learning and deep learning application.  
 
-I spent this summer at [**Intvo**](https://intvo.com) building and deploying a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [**ZS**](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software domain. 
+I spent this summer at [**Intvo**](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [**ZS**](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software domain. 
 <br>
 ### News  
 <hr width="100%" size="50%" color="black"> 
