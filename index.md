@@ -12,9 +12,13 @@ show-avatar: true
     }
 </style>
 
-I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). Previously worked as a Data Scientist at [ZS](https://www.zs.com) India, where I applied the concepts of Computer Vision and Natural Language Processing to innovate solutions across Healthcare, Gaming and Software domain. Prior to that, I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
-
-Currently, I am enrolled in the Computer Vision track at [UMICH](https://umich.edu) where my focus is on Geometric Deep Learning and 3D Computer Vision. I'm interested in understanding how machines can learn to build the underlying representation of our 3D world through observation or interaction.  
+I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). I am interested in geometric deep learning, representation learning and deep learning application.
+<br>
+I've had amazing opportunities to work at:
+- [**Intvo**](https://intvo.com), where I worked on building and deploying a pedestrian intent estimation framework in the context of ego-centric vehicles. 
+- [**ZS**](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software domain. 
+<br>
+Prior to that, I was an undergrad in the EE department at [IIT(ISM) Dhanbad](https://www.iitism.ac.in).
 <br>
 ### News  
 <hr width="100%" size="50%" color="black"> 
