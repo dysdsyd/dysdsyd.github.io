@@ -13,7 +13,7 @@ show-avatar: true
 </style>
 
 I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). I am interested in geometric deep learning, representation learning and deep learning applications.
-<span style="vertical-align:-80%"> </span><br>
+<span style="vertical-align:-90%"> </span><br>
 I spent this summer at [**Intvo**](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [**ZS**](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
 <br>
 ### News  
@@ -75,10 +75,10 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
   <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/">EECS 598</a>: Deep
   Learning for Computer Vision (Fall '20)<br>
   GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>
-<span style="vertical-align:-80%"> </span><br>
+<span style="vertical-align:-90%"> </span><br>
   <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-	manninger">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
   Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
-<span style="vertical-align:-80%"> </span><br>
+<span style="vertical-align:-90%"> </span><br>
   <a href="https://arch-ai.org/">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
 TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
   </p>
