@@ -12,10 +12,9 @@ show-avatar: true
     }
 </style>
 
-I am an [EECS](https://eecs.engin.umich.edu) MS student at the [University of Michigan](https://umich.edu). I am interested in geometric deep learning, representation learning and deep learning applications.
+I am a Masters student in electrical & computer science at the [University of Michigan](https://umich.edu). I am interested in geometric deep learning, representation learning and deep learning applications.
 <span style="vertical-align:-90%"> </span><br>
 I spent this summer at [**Intvo**](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [**ZS**](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
-<br>
 ### News  
 <hr width="100%" size="50%" color="black"> 
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;Paper with [Naman Gandhi](https://www.linkedin.com/in/namangandhi/) & [Arushi Arora](https://www.linkedin.com/in/arushiarora/) accepted at ICMLA 2020!  
