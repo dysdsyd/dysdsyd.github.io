@@ -57,7 +57,7 @@ I spent this summer at [**Intvo**](https://intvo.com) working on a pedestrian in
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
 
 **MedLens** [[code](https://github.com/dysdsyd/MedLens)][[demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)]  
-A Bi-Directional Attention Flow network based web app for health-care researchers, which answers factual questions based on uploaded documents or searched on PubMed database  
+A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 <br>
 ### Teaching
 ---
