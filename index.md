@@ -53,13 +53,13 @@ I spent this summer at [**Intvo**](https://intvo.com) working on a pedestrian in
 <br>
 ### Projects
 ---
-**SICGAN** [[code](https://github.com/dysdsyd/SICGAN)][[report](https://dysdsyd.github.io/files/SICGAN.pdf)]  
+**SICGAN** [code](https://github.com/dysdsyd/SICGAN) | [report](https://dysdsyd.github.io/files/SICGAN.pdf)  
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
 
-**MedLens** [[code](https://github.com/dysdsyd/MedLens)][[demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)]  
+**MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 
-**Planet: Understanding the Amazon from Space** [[code](https://github.com/EKami/planet-amazon-deforestation)] 
+**Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation)  
 Worked on Kaggle problem hosted by Planet to label satellite image chips with atmospheric conditions and various classes of land cover/land use.
 <br>
 ### Teaching
