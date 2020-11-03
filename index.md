@@ -60,7 +60,7 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
-Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to label satellite image chips with atmospheric conditions and various classes of land cover / land use.
+Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
 <br>
 ### Teaching
 ---
