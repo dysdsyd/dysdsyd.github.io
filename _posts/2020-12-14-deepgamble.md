@@ -1,10 +1,7 @@
 ---
 layout: post
-published: false
+published: true
 title: DeepGamble
-subtitle: >-
-  Towards unlocking real-time player intelligence using multi-layer instance
-  segmentation and attribute detection
 image: /img/deepg.png
 ---
 ## About
