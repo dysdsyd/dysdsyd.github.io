@@ -5,28 +5,28 @@ title: DeepGamble
 image: /img/deepg.png
 subtitle: Unlocking blackjack player intelligence using instance segmentation
 ---
-<table align=center width=700px>
-      <table align=center width=700px>
+<table align=center width=100%>
+      <table align=center width=100%>
         <tr>
-          <td align=center width=200px>
+          <td align=center width=20%>
             <center>
-              <span style="font-size:20px"><a href="https://dysdsyd.github.io">Danish Syed*</a></span>
+              <span style="font-size:16x"><a href="https://dysdsyd.github.io">Danish Syed*</a></span>
             </center>
           </td>
-          <td align=center width=200px>
+          <td align=center width=20%>
             <center>
-              <span style="font-size:22px"><a href="https://www.linkedin.com/in/namangandhi/">Naman Gandhi*</a></span>
+              <span style="font-size:16px"><a href="https://www.linkedin.com/in/namangandhi/">Naman Gandhi*</a></span>
             </center>
           </td>
-          <td align=center width=200px>
+          <td align=center width=20%>
             <center>
-              <span style="font-size:22px"><a href="https://www.linkedin.com/in/arushiarora/">Arushi Arora*</a></span>
+              <span style="font-size:16px"><a href="https://www.linkedin.com/in/arushiarora/">Arushi Arora*</a></span>
             </center>
           </td>
           <br>
-          <td align=center width=200px>
+          <td align=center width=20%>
             <center>
-              <span style="font-size:22px"><a href="https://www.linkedin.com/in/nskadam/">Nilesh Kadam</a></span>
+              <span style="font-size:16px"><a href="https://www.linkedin.com/in/nskadam/">Nilesh Kadam</a></span>
             </center>
           </td>
         </tr>
