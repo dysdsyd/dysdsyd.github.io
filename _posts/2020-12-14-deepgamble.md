@@ -61,7 +61,7 @@ Our proposed supervised learning approach consists of a specialized three-stage 
 
 ## Paper
 <table align=center width=450px>
-  <tr>\
+  <tr>
     <td><a href=""><img class="layered-paper-big" style="height:175px" src="/img/DeepGamble/paper.png"/></a></td>
 			<td><span style="font-size:14pt">D. Syed*, N. Gandhi*, A. Arora* & N. Kadam<br>
 				<b>DeepGamble</b><br>
