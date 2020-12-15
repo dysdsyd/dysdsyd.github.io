@@ -10,6 +10,7 @@ image: /img/M.png
 
 <div class="posts-list">
   {% for post in site.posts %}
+	<br><br><br><br>
   {% if {{post.subtitle}} != "Sprint Exercise" %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
