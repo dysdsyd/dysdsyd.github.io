@@ -7,8 +7,6 @@ subtitle: >-
   Towards unlocking real-time player intelligence using multi-layer instance
   segmentation and attribute detection
 ---
-## About
----
 DeepGamble is a video recognition system that is based on an extension of the Mask R-CNN model. It digitizes the game of blackjack by detecting cards and player bets in real-time and processes decisions they took in order to create accurate player personas.
 
 > A longer technical report of our ICMLA 2020 paper is available [here]()
