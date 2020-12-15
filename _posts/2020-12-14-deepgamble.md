@@ -13,8 +13,6 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 
 ## Overview Video
 ---
-
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="640" height="480">
     <source src="/img/DeepGamble/DeepGamble_vdo.mp4" type="video/mp4">
@@ -31,10 +29,10 @@ DeepGamble System Architecture consists of high-resolution cameras, Raspberry Pi
 Our proposed supervised learning approach consists of a specialized three-stage pipeline that takes images from two viewpoints of the casino table and does instance segmentation to generate masks on proposed regions of interests. These predicted masks along with derivative features are used to classify image attributes that are passed onto the next stage to assimilate the gameplay understanding. Our end-to-end model yields an accuracy of ~95% for the main bet detection and ~97% for card detection in a controlled environment trained using transfer learning approach with 900 training examples.
 
 ![](/img/DeepGamble/model.png)
+<br>
 
 ## DeepGamble in Action
 ---
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="640" height="480">
     <source src="/img/DeepGamble/blackjack_video_recognition.mp4" type="video/mp4">
@@ -74,4 +72,3 @@ If you would like to cite us, you could use the following BibTeX entry.
 ## Acknowledgements
 ---
 The authors would like to thank Arun Shastri, Rasvan Dirlea, Mike Francis, Akshat Rajvanshi, Manoj Bheemineni, Brendan Riley, Geoff Cohn, Jayendu Sharma, Thompson Nguyen and others who contributed, supported, guided and collaborated with us during the development and deployment of our system.
-  
