@@ -16,7 +16,7 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="320" height="240">
     <source src="/img/DeepGamble/DeepGamble_vdo.mp4" type="video/mp4">
   </video>
 </figure>
@@ -36,7 +36,7 @@ Our proposed supervised learning approach consists of a specialized three-stage 
 ---
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" width="320" height="240">
     <source src="/img/DeepGamble/blackjack_video_recognition.mp4" type="video/mp4">
   </video>
 </figure>
