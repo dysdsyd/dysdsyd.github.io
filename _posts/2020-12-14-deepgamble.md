@@ -25,7 +25,7 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 
 ## Abstact & Method
 ---
-DeepGamble System Architecture consists of high-resolution cameras, Raspberry Pis are connected via a gateway to the Google Cloud Platform where inference models are deployed as micro-services to perform inference in real-time. After assimilating the game play, results are pushed to Google BigQuery for further analysis and real-time dashboards are generated.
+DeepGamble System Architecture consists of high-resolution cameras, Raspberry Pis are connected via a gateway to the Google Cloud Platform where inference models are deployed as micro-services to perform inference in real-time. After assimilating the game play, results are pushed to BigQuery for further analysis and real-time dashboards are generated.
 
 ![](/img/DeepGamble/architecture.png)
 
