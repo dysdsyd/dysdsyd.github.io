@@ -5,35 +5,6 @@ title: DeepGamble
 image: /img/deepg.png
 subtitle: Unlocking blackjack player intelligence using instance segmentation
 ---
-<center>
-<table align=center width=100%>
-        <tr>
-          <td align=center width=20%>
-            <center>
-              <span style="font-size:16px"><a href="https://dysdsyd.github.io">Danish Syed*</a></span>
-            </center>
-          </td>
-          <td align=center width=20%>
-            <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/namangandhi/">Naman Gandhi*</a></span>
-            </center>
-          </td>
-          <td align=center width=20%>
-            <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/arushiarora/">Arushi Arora*</a></span>
-            </center>
-          </td>
-          <br>
-          <td align=center width=20%>
-            <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/nskadam/">Nilesh Kadam</a></span>
-            </center>
-          </td>
-        </tr>
-</table>
-  </center>
-<br>
-
 DeepGamble is a video recognition system that is based on an extension of the Mask R-CNN model. It digitizes the game of blackjack by detecting cards and player bets in real-time and processes decisions they took in order to create accurate player personas.
 
 > A longer technical report of our ICMLA 2020 paper is available [here]()
