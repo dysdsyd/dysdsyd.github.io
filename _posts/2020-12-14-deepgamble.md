@@ -66,7 +66,7 @@ Our proposed supervised learning approach consists of a specialized three-stage 
 			<td><span style="font-size:14pt">D. Syed*, N. Gandhi*, A. Arora* & N. Kadam<br>
 				<b>DeepGamble</b><br>
 				ICMLA, 2020.<br>
-				(hosted on <a href="">ArXiv</a>)<br>
+				(<a href="">ArXiv</a>)<br>
 				</span>
 			</td>
 		</tr>
