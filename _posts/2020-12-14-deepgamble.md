@@ -5,31 +5,33 @@ title: DeepGamble
 image: /img/deepg.png
 subtitle: Unlocking blackjack player intelligence using instance segmentation
 ---
-
-<table align=center width=100%>
+<center>
+<table align=center width=700px>
         <tr>
-          <td align=center width=20%>
+          <td align=center width=200px>
             <center>
-              <span style="font-size:16x"><a href="https://dysdsyd.github.io">Danish Syed*</a></span>
+              <span style="font-size:20px"><a href="https://dysdsyd.github.io">Danish Syed*</a></span>
             </center>
           </td>
-          <td align=center width=20%>
+          <td align=center width=200px>
             <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/namangandhi/">Naman Gandhi*</a></span>
+              <span style="font-size:22px"><a href="https://www.linkedin.com/in/namangandhi/">Naman Gandhi*</a></span>
             </center>
           </td>
-          <td align=center width=20%>
+          <td align=center width=200px>
             <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/arushiarora/">Arushi Arora*</a></span>
+              <span style="font-size:22px"><a href="https://www.linkedin.com/in/arushiarora/">Arushi Arora*</a></span>
             </center>
           </td>
-          <td align=center width=20%>
+          <br>
+          <td align=center width=200px>
             <center>
-              <span style="font-size:16px"><a href="https://www.linkedin.com/in/nskadam/">Nilesh Kadam</a></span>
+              <span style="font-size:22px"><a href="https://www.linkedin.com/in/nskadam/">Nilesh Kadam</a></span>
             </center>
           </td>
         </tr>
 </table>
+  </center>
 <br>
 
 DeepGamble is a video recognition system that is based on an extension of the Mask R-CNN model. It digitizes the game of blackjack by detecting cards and player bets in real-time and processes decisions they took in order to create accurate player personas.
