@@ -15,7 +15,7 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 ---
 <div style="text-align:center">
 
-<iframe width="100%" height="50%" src="/img/DeepGamble/DeepGamble_vdo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="/img/DeepGamble/DeepGamble_vdo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Our proposed supervised learning approach consists of a specialized three-stage 
 ## DeepGamble in Action
 ---
 <div style="text-align:center">
-<iframe width="100%" height="30%" src="/img/DeepGamble/blackjack_video_recognition.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="/img/DeepGamble/blackjack_video_recognition.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
