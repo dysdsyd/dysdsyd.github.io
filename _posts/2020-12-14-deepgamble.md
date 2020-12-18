@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: DeepGamble
 image: /img/deepg.png
 subtitle: Unlocking blackjack player intelligence using instance segmentation
