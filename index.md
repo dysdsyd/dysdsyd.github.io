@@ -44,7 +44,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <br>
 
 <!-- Additional Links -->
-[<a href="">paper</a>] [<a href="">project</a>] Coming soon!
+[<a href="https://arxiv.org/abs/2012.08011">paper</a>] [<a href="https://dysdsyd.github.io/2020-12-14-deepgamble/">project</a>] 
 </p>
 
 <p> </p>
