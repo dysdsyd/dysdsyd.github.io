@@ -41,9 +41,9 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 
 ## Paper
 ---
-<table align=center width=80%>
+<table align=center width=450px>
   <tr>
-    <td><a href=""><img class="layered-paper-big" style="height:200px" src="/img/DeepGamble/paper.png"/></a></td>
+    <td><a href=""><img class="layered-paper-big" style="height:175px" src="/img/DeepGamble/paper.png"/></a></td>
 			<td><span style="font-size:14pt">D. Syed*, N. Gandhi*, A. Arora* & N. Kadam<br>
 				<b>DeepGamble</b><br>
 				ICMLA, 2020.<br>
