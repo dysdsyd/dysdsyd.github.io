@@ -14,15 +14,11 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 ## Overview Video
 ---
 <span style="vertical-align:-80%"> </span>
-<!--figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="900" height="300">
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="560" height="315">
     <source src="/img/DeepGamble/DeepGamble_vdo.mp4" type="video/mp4">
   </video>
-</figure-->
-
-<div style="text-align:center">
-	<iframe width="560" height="315" src="/img/DeepGamble/DeepGamble_vdo.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
+</figure>
 <span style="vertical-align:-80%"> </span>
 <br>
 
