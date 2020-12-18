@@ -56,7 +56,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
 A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.
 
-**SICGAN** [code](https://github.com/dysdsyd/SICGAN) | [report](https://dysdsyd.github.io/files/SICGANSPPFNet.pdf)  
+**SICGAN** [code](https://github.com/dysdsyd/SICGAN) | [report](https://dysdsyd.github.io/files/SICGAN.pdf)  
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
 
 **MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
