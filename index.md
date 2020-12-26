@@ -18,7 +18,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 ### News  
 <hr width="100%" size="50%" color="black"> 
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;Paper "DeepGamble" accepted at ICMLA 2020!  
-**[Jun 2020]** &nbsp;&nbsp;&nbsp;Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern
+**[Jun 2020]** &nbsp;&nbsp;&nbsp;Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern  
 **[Sep 2019]** &nbsp;&nbsp;&nbsp;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
 ### Publications
