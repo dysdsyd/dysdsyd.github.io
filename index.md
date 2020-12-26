@@ -93,7 +93,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
   </tbody>
 </table>
 
-
+<br>
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
     <!-- Image -->
