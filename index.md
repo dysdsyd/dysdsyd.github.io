@@ -76,6 +76,11 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <!-- Teaching part -->
     <td valign="center" width="70%">       
       <p>
+        <a href="">EECS 442</a>: Computer Vision (Winter '21)<br>
+        GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a> & <a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey</a>
+        
+        <span style="vertical-align:-95%"> </span><br>
+        
         <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/">EECS 598</a>: Deep Learning for Computer Vision (Fall '20)<br>
         GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>
         
@@ -92,3 +97,22 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     </td> 
   </tbody>
 </table>
+
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <tbody>
+    <!-- Image -->
+    <td width="30%">
+      <center> <img src='/img/deepdesign.jpeg' width="90%" class="img1"> </center>
+    </td>
+    <!-- Teaching part -->
+    <td valign="center" width="70%">       
+      <p>    
+        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
+        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
+        
+      </p>
+    </td> 
+  </tbody>
+</table>
+
