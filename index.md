@@ -86,11 +86,6 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
         
         <span style="vertical-align:-95%"> </span><br>
         
-        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
-        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
-        
-        <span style="vertical-align:-95%"> </span><br>
-        
         <a href="https://arch-ai.org/">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
         TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
       </p>
