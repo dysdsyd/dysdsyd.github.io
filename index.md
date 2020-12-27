@@ -65,7 +65,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
       <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf">report</a><br>
-      An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
+      A conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
       <!-- Image -->
       <img src='/img/projects/sicgan.png'  width="90%">
     </td>
