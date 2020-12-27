@@ -93,7 +93,6 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   </tbody>
 </table>
 <br>
-https://www.planet.com
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
