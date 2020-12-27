@@ -76,7 +76,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens target="_blank"">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E" target="_blank">demo</a><br>
+      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens" target="_blank">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E" target="_blank">demo</a><br>
       A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database.</p>
       <!-- Image -->
       <img src='/img/projects/medlens.png'  width="90%">
