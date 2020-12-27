@@ -57,12 +57,12 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
       <!-- Image -->
-      <img src='/img/SPPFpitch.jpg'  width="90%">
+      <img src='/img/projects/SPPFpitch.jpg'  width="90%">
     </td>
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
       <!-- Image -->
-      <img src='/img/sicgan_results.png'  width="90%">
+      <img src='/img/projects/sicgan_results.png'  width="90%">
     </td>
   
   </tbody>
