@@ -62,39 +62,6 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
 Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
-<!--
-<table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
-  <tbody>
-    <td width="50%" border="0px">
-      <p><b>SPPFNet</b> <a href="https://dysdsyd.github.io/files/SPPFNet.pdf" target="_blank">report</a><br>
-      A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.</p>
-      <img src='/img/projects/SPPFpitch.jpg'  width="90%">
-    </td>
-    
-    <td width="50%" border="0px">
-      <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN" target="_blank">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf" target="_blank">report</a><br>
-      A GAN based model for generating 3D objects from single image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
-      <img src='/img/projects/sicgan.png'  width="90%">
-    </td>
-  
-  </tbody>
-  <br>
-  <tbody>
-    <td width="50%" border="0px">
-      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens" target="_blank">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E" target="_blank">demo</a><br>
-      A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database.</p>
-      <img src='/img/projects/medlens.png'  width="90%">
-    </td>
-    
-    <td width="50%" border="0px">
-      <p><b>Understanding the Amazon from Space</b> <a href="https://github.com/EKami/planet-amazon-deforestation" target="_blank">code</a><br>
-      Worked on a Kaggle problem to classify atmospheric conditions and land cover type of satellite images. Experimented with multiple deep convolution neural networks.</p>
-      <img src='/img/projects/planet.png'  width="90%">
-    </td>
-  
-  </tbody>
-</table>
--->
 <br>
 ### Teaching
 ---
