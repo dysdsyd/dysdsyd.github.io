@@ -71,7 +71,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     </td>
   
   </tbody>
-  
+  <br>
   <!-- MedLens and planet --> 
   <tbody>
     <!-- SPPFNet --> 
