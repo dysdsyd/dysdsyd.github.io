@@ -43,7 +43,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
         <em>ICMLA 2020</em>
         <br>
         <!-- Additional Links -->
-        [<a href="https://arxiv.org/abs/2012.08011">paper</a>] [<a href="https://dysdsyd.github.io/2020-12-14-deepgamble/">project</a>] 
+        [<a href="https://arxiv.org/abs/2012.08011" target="_blank">paper</a>] [<a href="https://dysdsyd.github.io/2020-12-14-deepgamble/" target="_blank">project</a>] 
       </p>
     </td> 
   </tbody>
@@ -56,7 +56,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>SPPFNet</b> <a href="https://dysdsyd.github.io/files/SPPFNet.pdf">report</a><br>
+      <p><b>SPPFNet</b> <a href="https://dysdsyd.github.io/files/SPPFNet.pdf" target="_blank">report</a><br>
       A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.</p>
       <!-- Image -->
       <img src='/img/projects/SPPFpitch.jpg'  width="90%">
@@ -64,7 +64,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf">report</a><br>
+      <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN" target="_blank">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf" target="_blank">report</a><br>
       A GAN based model for generating 3D objects from single image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
       <!-- Image -->
       <img src='/img/projects/sicgan.png'  width="90%">
@@ -76,7 +76,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E">demo</a><br>
+      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens target="_blank"">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E" target="_blank">demo</a><br>
       A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database.</p>
       <!-- Image -->
       <img src='/img/projects/medlens.png'  width="90%">
@@ -84,8 +84,8 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>Planet: Understanding the Amazon from Space</b> <a href="https://github.com/EKami/planet-amazon-deforestation">code</a><br>
-      Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.</p>
+      <p><b>Understanding the Amazon from Space</b> <a href="https://github.com/EKami/planet-amazon-deforestation" target="_blank">code</a><br>
+      Worked on a Kaggle problem hosted by Planet to classify atmospheric conditions and land cover type of satellite images.</p>
       <!-- Image -->
       <img src='/img/projects/planet.png'  width="90%">
     </td>
@@ -93,6 +93,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   </tbody>
 </table>
 <br>
+https://www.planet.com
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -105,17 +106,17 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     <td valign="center" width="70%">       
       <p>
         <a href="">EECS 442</a>: Computer Vision (Winter '21)<br>
-        GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a> & <a href="https://web.eecs.umich.edu/~fouhey/">David Fouhey</a>
+        GSI with <a href="https://cs.stanford.edu/people/jcjohns/" target="_blank">Justin Johnson</a> & <a href="https://web.eecs.umich.edu/~fouhey/" target="_blank">David Fouhey</a>
         
         <span style="vertical-align:-95%"> </span><br>
         
-        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/">EECS 598</a>: Deep Learning for Computer Vision (Fall '20)<br>
-        GSI with <a href="https://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>
+        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/" target="_blank">EECS 598</a>: Deep Learning for Computer Vision (Fall '20)<br>
+        GSI with <a href="https://cs.stanford.edu/people/jcjohns/" target="_blank">Justin Johnson</a>
         
         <span style="vertical-align:-95%"> </span><br>
         
-        <a href="https://arch-ai.org/">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
-        TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
+        <a href="https://arch-ai.org/" target="_blank">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
+        TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> & Sandra Manninger
       </p>
     </td> 
   </tbody>
@@ -131,8 +132,8 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     <!-- Teaching part -->
     <td valign="center" width="70%">       
       <p>    
-        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
-        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> & Sandra Manninger
+        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger" target="_blank">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
+        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> & Sandra Manninger
         
       </p>
     </td> 
