@@ -85,7 +85,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
       <p><b>Understanding the Amazon from Space</b> <a href="https://github.com/EKami/planet-amazon-deforestation" target="_blank">code</a><br>
-      Worked on a Kaggle problem hosted by Planet to classify atmospheric conditions and land cover type of satellite images.</p>
+      Worked on a Kaggle problem to classify atmospheric conditions and land cover type of satellite images. Experimented with multiple deep convolution neural networks.</p>
       <!-- Image -->
       <img src='/img/projects/planet.png'  width="90%">
     </td>
