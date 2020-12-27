@@ -71,14 +71,27 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     </td>
   
   </tbody>
+  
+  <!-- MedLens and planet --> 
+  <tbody>
+    <!-- SPPFNet --> 
+    <td width="50%" border="0px">
+      <p><b>MedLens</b> <a href="https://github.com/dysdsyd/MedLens">code</a> | <a href="https://www.youtube.com/watch?v=jJbxu7q9t5E">demo</a><br>
+      A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database.</p>
+      <!-- Image -->
+      <img src='/img/projects/medlens.png'  width="90%">
+    </td>
+    
+    <!-- SPPFNet --> 
+    <td width="50%" border="0px">
+      <p><b>Planet: Understanding the Amazon from Space</b> <a href="https://github.com/EKami/planet-amazon-deforestation">code</a><br>
+      Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.</p>
+      <!-- Image -->
+      <img src='/img/projects/planet.png'  width="90%">
+    </td>
+  
+  </tbody>
 </table>
-
-
-**MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
-A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
-
-**Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
-Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
 <br>
 ### Teaching
 ---
