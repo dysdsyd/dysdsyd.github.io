@@ -56,17 +56,18 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>SPPFNet</b> <a href="https://dysdsyd.github.io/files/SPPFNet.pdf">report</a>   
+      <p><b>SPPFNet</b> <a href="https://dysdsyd.github.io/files/SPPFNet.pdf">report</a><br>
       A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.</p>
       <!-- Image -->
       <img src='/img/projects/SPPFpitch.jpg'  width="90%">
     </td>
+    
     <!-- SPPFNet --> 
     <td width="50%" border="0px">
-      <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf">report</a>   
+      <p><b>SICGAN</b> <a href="https://github.com/dysdsyd/SICGAN">code</a> | <a href="https://dysdsyd.github.io/files/SICGAN.pdf">report</a><br>
       An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.</p>
       <!-- Image -->
-      <img src='/img/projects/sicgan_results.png'  width="90%">
+      <img src='/img/projects/sicgan.png'  width="90%">
     </td>
   
   </tbody>
