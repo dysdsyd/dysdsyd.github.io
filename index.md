@@ -51,6 +51,24 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <br>
 ### Projects
 ---
+<table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
+  <!-- SPPFNet and SICGAN --> 
+  <tbody>
+    <!-- SPPFNet --> 
+    <td width="50%" border="0px">
+      <!-- Image -->
+      <img src='/img/SPPFpitch.jpg'  width="90%">
+    </td>
+    <!-- SPPFNet --> 
+    <td width="50%" border="0px">
+      <!-- Image -->
+      <img src='/img/sicgan_results.png'  width="90%">
+    </td>
+  
+  </tbody>
+</table>
+
+
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
 A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.
 
