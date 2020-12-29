@@ -17,7 +17,7 @@ I am a Masters student in electrical & computer science at the [University of Mi
 I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
 ### News  
 <hr width="100%" size="50%" color="black"> 
-**[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper "DeepGamble" accepted at ICMLA 2020!  
+**[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;DeepGamble accepted at ICMLA 2020!  
 **[Jun 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern  
 **[Sep 2019]** &nbsp;&nbsp;&nbsp;&nbsp;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
