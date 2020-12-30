@@ -26,7 +26,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
   <!-- DeepGamble --> 
   <tbody>
-    <td width="25%" border="0px">
+    <td width="30%" border="0px">
       <!-- Image -->
       <img src='/img/deepg.png'  class="" width="70%" class="img1">
     </td>
