@@ -28,7 +28,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <td width="25%" border="0px">
       <!-- Image -->
-      <img src='/img/deepg.png'  class="" width="90%" class="img1">
+      <img src='/img/deepg.png'  class="" width="70%" class="img1">
     </td>
     <!-- Paper Info -->
     <td valign="top" width="70%" border="0px">
@@ -69,7 +69,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
   <tbody>
     <!-- Image -->
     <td width="30%">
-      <center> <img src='/img/um.jpg' width="90%" class="img1"> </center>
+      <center> <img src='/img/um.jpg' width="70%" class="img1"> </center>
     </td>
     <!-- Teaching part -->
     <td valign="center" width="70%">       
@@ -96,7 +96,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
   <tbody>
     <!-- Image -->
     <td width="30%">
-      <center> <img src='/img/deepdesign.jpeg' width="90%" class="img1"> </center>
+      <center> <img src='/img/deepdesign.jpeg' width="70%" class="img1"> </center>
     </td>
     <!-- Teaching part -->
     <td valign="center" width="70%">       
