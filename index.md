@@ -17,7 +17,7 @@ I am a Masters student in electrical & computer science at the [University of Mi
 I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
 ### News  
 <hr width="100%" size="50%" color="black"> 
-**[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with [Naman Gandhi](https://www.linkedin.com/in/namangandhi/), [Arushi Arora](https://www.linkedin.com/in/arushiarora/) & [Nilesh Kadam](https://www.linkedin.com/in/nskadam/) accepted at ICMLA 2020!  
+**[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
 **[Jun 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern  
 **[Sep 2019]** &nbsp;&nbsp;&nbsp;&nbsp;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
@@ -102,8 +102,8 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <td valign="center" width="70%">       
       <p>    
         <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger" target="_blank">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
-        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> & Sandra Manninger
-        
+        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a>, Sandra Manninger & <a href="https://robotics.umich.edu/profile/alexandra-carlson/" target="_blank">Alexandra Carlson</a>
+
       </p>
     </td> 
   </tbody>
