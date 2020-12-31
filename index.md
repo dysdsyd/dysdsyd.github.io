@@ -26,12 +26,12 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <!-- DeepGamble --> 
   <tbody>
-    <td width="30%">
+    <td width="30%", style="padding-right: 0px;">
       <!-- Image -->
       <img src='/img/deepg.png'  class="" width="70%" class="img1">
     </td>
     <!-- Paper Info -->
-    <td valign="center" width="80%">
+    <td valign="center" width="70%", style="padding-left: 0px;">
       <p><papertitle>
         <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection</b>
         </papertitle>
