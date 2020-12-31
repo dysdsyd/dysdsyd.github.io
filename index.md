@@ -31,7 +31,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
       <img src='/img/deepg.png'  class="" width="70%" class="img1">
     </td>
     <!-- Paper Info -->
-    <td valign="center" width="70%">
+    <td valign="center" width="80%">
       <p><papertitle>
         <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection</b>
         </papertitle>
