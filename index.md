@@ -32,9 +32,9 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
-      <p><papertitle>
-        <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection</b>
-        </papertitle>
+      <p>
+        <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection
+        </b>
         <br>
         <u>Danish Syed</u>*, Naman Gandhi*, Arushi Arora* and Nilesh Kadam
         <br>
