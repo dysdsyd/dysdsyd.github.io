@@ -23,7 +23,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <br>
 ### Publications
 ---
-<table width="100%" align="center" border="0px" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <!-- DeepGamble --> 
   <tbody>
     <td width="30%">
@@ -31,7 +31,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
       <img src='/img/deepg.png'  class="" width="70%" class="img1">
     </td>
     <!-- Paper Info -->
-    <td valign="top" width="70%">
+    <td valign="center" width="70%">
       <p><papertitle>
         <b>DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection</b>
         </papertitle>
