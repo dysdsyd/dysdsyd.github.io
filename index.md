@@ -102,7 +102,8 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <td valign="center" width="70%">       
       <p>    
         <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger" target="_blank">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
-        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a>, Sandra Manninger & <a href="https://robotics.umich.edu/profile/alexandra-carlson/" target="_blank">Alexandra Carlson</a>
+        Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a>, Sandra Manninger & <br>
+        <a href="https://robotics.umich.edu/profile/alexandra-carlson/" target="_blank">Alexandra Carlson</a>
 
       </p>
     </td> 
