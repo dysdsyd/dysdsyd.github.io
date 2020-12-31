@@ -28,7 +28,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
   <tbody>
     <td width="30%">
       <!-- Image -->
-      <img src='/img/deepg.png'  class="img1" width="70%">
+      <center><img src='/img/deepg.png'  class="img1" width="70%"></center>
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
