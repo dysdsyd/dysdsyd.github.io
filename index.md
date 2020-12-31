@@ -23,7 +23,7 @@ I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian int
 <br>
 ### Publications
 ---
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <!-- DeepGamble --> 
   <tbody>
     <td width="30%">
