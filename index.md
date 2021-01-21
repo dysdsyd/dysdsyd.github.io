@@ -74,7 +74,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <!-- Teaching part -->
     <td valign="center" width="70%">       
       <p>
-        <a href="">EECS 442</a>: Computer Vision (Winter '21)<br>
+        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/">EECS 442</a>: Computer Vision (Winter '21)<br>
         GSI with <a href="https://cs.stanford.edu/people/jcjohns/" target="_blank">Justin Johnson</a> & <a href="https://web.eecs.umich.edu/~fouhey/" target="_blank">David Fouhey</a>
         
         <span style="vertical-align:-95%"> </span><br>
