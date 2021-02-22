@@ -12,6 +12,7 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 > A longer technical report of our ICMLA 2020 paper is available [here](https://arxiv.org/abs/2012.08011)
 <br>
 
+<!---
 ## Overview Video
 ---
 <span style="vertical-align:-80%"> </span>
@@ -22,6 +23,7 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 </figure>
 <span style="vertical-align:-80%"> </span>
 <br>
+-->
 
 ## Abstact
 ---
