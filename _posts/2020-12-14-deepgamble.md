@@ -62,12 +62,18 @@ DeepGamble is a video recognition system that is based on an extension of the Ma
 If you would like to cite us, you could use the following BibTeX entry.
 
 ```
-@article{deepgamble,
-    author  = { Danish Syed and Naman Gandhi and  Arushi Arora and Nilesh Kadam },
-    title   = { DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection },
-    journal = { arXiv },
-    year    = { 2020 },
+@article{Syed_2020,
+   title={DeepGamble: Towards unlocking real-time player intelligence using multi-layer instance segmentation and attribute detection},
+   ISBN={9781728184708},
+   url={http://dx.doi.org/10.1109/ICMLA51294.2020.00067},
+   DOI={10.1109/icmla51294.2020.00067},
+   journal={2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+   publisher={IEEE},
+   author={Syed, Danish and Gandhi, Naman and Arora, Arushi and Kadam, Nilesh},
+   year={2020},
+   month={Dec}
 }
+
 ```
 <br>
 
