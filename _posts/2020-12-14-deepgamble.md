@@ -73,7 +73,6 @@ If you would like to cite us, you could use the following BibTeX entry.
    year={2020},
    month={Dec}
 }
-
 ```
 <br>
 
