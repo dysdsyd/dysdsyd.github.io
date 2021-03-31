@@ -12,7 +12,7 @@ show-avatar: true
     }
 </style>
 
-I am a Masters student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in geometric deep learning, representation learning and deep learning applications.
+I am a final year MS student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
 I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
 ### News  
