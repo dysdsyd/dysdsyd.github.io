@@ -61,7 +61,7 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 **MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 
-**Kaggle Projects** [kaggle](https://www.kaggle.com/syeddanish)
+**Kaggle Projects** [kaggle](https://www.kaggle.com/syeddanish)  
 Built a ConvNet to identify atmospheric conditions & land type from satellite images.    
 Experimented with U-Nets to count different types of sea lions in aerial photographs.  
 Built an ensemble of LSTM and XGBoost models to predict similar questions on Quora.  
