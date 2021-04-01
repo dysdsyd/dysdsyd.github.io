@@ -61,12 +61,9 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 **MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 
-**Kaggle Projects** [kaggle](https://www.kaggle.com/syeddanish)<span style="vertical-align:-50%"> </span>
-* Built a ConvNet to identify atmospheric conditions & land type from satellite images    
-* Experimented with U-Nets to count different types of sea lions in aerial photographs    
-* Built an ensemble of LSTM and XGBoost models to predict similar questions on Quora   
+**Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
+Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
 <br>
-
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
