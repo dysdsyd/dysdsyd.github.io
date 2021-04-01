@@ -62,10 +62,12 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
 
 **Kaggle Projects** [kaggle](https://www.kaggle.com/syeddanish)
+<span style="vertical-align:-90%"> </span><br>
 - Built a ConvNet to identify atmospheric conditions & land type from satellite images
 - Experimented with U-Nets to count different types of sea lions in aerial photographs
 - Built an ensemble of LSTM and XGBoost models to predict similar questions on Quora
 <br>
+
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
