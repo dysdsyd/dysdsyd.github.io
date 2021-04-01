@@ -12,9 +12,9 @@ show-avatar: true
     }
 </style>
 
-I am a final year MS student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with [Justin Johnson](https://web.eecs.umich.edu/~justincj/) and [Matias del Campo](https://taubmancollege.umich.edu/faculty/directory/matias-del-campo) ([AR2IL](https://ar2il.com) Lab).
+I am a final year MS student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
-I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
+Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with [Justin Johnson](https://web.eecs.umich.edu/~justincj/) and [Matias del Campo](https://taubmancollege.umich.edu/faculty/directory/matias-del-campo) ([AR2IL](https://ar2il.com) Lab). I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
 ### News  
 <hr width="100%" size="50%" color="black"> 
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
