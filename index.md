@@ -21,7 +21,6 @@ Towards this end, I have been working on 3D scene understanding at the intersect
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
 **[Jun 2020]** &nbsp;&nbsp;&nbsp;&nbsp; Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern   
 **[Sep 2019]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Masters student at the [University of Michigan](https://umich.edu)!  
-<br>
 ### Publications
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -50,7 +49,6 @@ Towards this end, I have been working on 3D scene understanding at the intersect
     </td> 
   </tbody>
 </table>
-<br>
 ### Projects
 ---
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
@@ -64,7 +62,6 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
 Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
-<br>
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
