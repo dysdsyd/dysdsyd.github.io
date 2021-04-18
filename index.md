@@ -14,13 +14,15 @@ show-avatar: true
 
 I am a final year MS student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
-Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with [Justin Johnson](https://web.eecs.umich.edu/~justincj/) and [Matias del Campo](https://taubmancollege.umich.edu/faculty/directory/matias-del-campo) ([AR<sup>2</sup>IL](https://ar2il.com) Lab). I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry. 
+Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with [Justin Johnson](https://web.eecs.umich.edu/~justincj/) and [Matias del Campo](https://taubmancollege.umich.edu/faculty/directory/matias-del-campo) ([AR<sup>2</sup>IL](https://ar2il.com) Lab). I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Prior to coming to Michigan, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
+<br>
 ### News
 ---
 **[Jan 2021]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Research Assistant at the Architecture & Artificial Intelligence Lab ([AR<sup>2</sup>IL](https://ar2il.com))  
 **[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
 **[Jun 2020]** &nbsp;&nbsp;&nbsp;&nbsp; Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern   
 **[Sep 2019]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Masters student at the [University of Michigan](https://umich.edu)!  
+<br>
 ### Publications
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -49,6 +51,7 @@ Towards this end, I have been working on 3D scene understanding at the intersect
     </td> 
   </tbody>
 </table>
+<br>
 ### Projects
 ---
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
@@ -62,6 +65,7 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
 Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
+<br>
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
