@@ -21,10 +21,10 @@ Towards this end, I have been working on 3D scene understanding at the intersect
     <tr> 
       <td width="100%" valign="middle">
         <p>
-          <b>[Jan 2021] &nbsp;&nbsp;</b> Started as a Research Assistant at the Architecture & Artificial Intelligence Lab <a href="https://ar2il.com" target='_blank'>(AR<sup>2</sup>IL)</a><br> 
-          <b>[Sep 2020] &nbsp;&nbsp;</b> Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!<br> 
-          <b>[Jun 2020] &nbsp;&nbsp;</b> Spending summer at at <a href="https://intvo.com" target='_blank'>Intvo Inc</a> as Computer Vision Engineer Intern<br> 
-          <b>[Sep 2019] &nbsp;&nbsp;</b>  Started as a Masters student at the <a href="https://umich.edu" target='_blank'>University of Michigan</a><br> 
+          <b>[Jan 2021]&nbsp;&nbsp;&nbsp;&nbsp;</b> Started as a Research Assistant at the Architecture & Artificial Intelligence Lab <a href="https://ar2il.com" target='_blank'>(AR<sup>2</sup>IL)</a><br> 
+          <b>[Sep 2020]&nbsp;&nbsp;&nbsp;&nbsp;</b> Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!<br> 
+          <b>[Jun 2020]&nbsp;&nbsp;&nbsp;&nbsp;</b> Spending summer at at <a href="https://intvo.com" target='_blank'>Intvo Inc</a> as Computer Vision Engineer Intern<br> 
+          <b>[Sep 2019]&nbsp;&nbsp;&nbsp;&nbsp;</b>  Started as a Masters student at the <a href="https://umich.edu" target='_blank'>University of Michigan</a><br> 
         </p>
       </td>  
     </tr> 
