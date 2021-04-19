@@ -18,10 +18,10 @@ Towards this end, I have been working on 3D scene understanding at the intersect
 <br>
 ### News
 ---
-**[Jan 2021]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Research Assistant at the Architecture & Artificial Intelligence Lab ([AR<sup>2</sup>IL](https://ar2il.com))  
-**[Sep 2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
-**[Jun 2020]** &nbsp;&nbsp;&nbsp;&nbsp; Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern   
-**[Sep 2019]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Masters student at the [University of Michigan](https://umich.edu)!  
+**[01/2021]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Research Assistant at the Architecture & Artificial Intelligence Lab ([AR<sup>2</sup>IL](https://ar2il.com))  
+**[09/2020]** &nbsp;&nbsp;&nbsp;&nbsp;Paper with <a href="https://www.linkedin.com/in/namangandhi/" target="_blank">Naman Gandhi</a>, <a href="https://www.linkedin.com/in/arushiarora/" target="_blank">Arushi Arora</a> & <a href="https://www.linkedin.com/in/nskadam/" target="_blank">Nilesh Kadam</a> accepted at ICMLA 2020!  
+**[06/2020]** &nbsp;&nbsp;&nbsp;&nbsp; Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern   
+**[09/2019]** &nbsp;&nbsp;&nbsp;&nbsp; Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
 ### Publications
 ---
