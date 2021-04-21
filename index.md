@@ -21,6 +21,7 @@ Towards this end, I have been working on 3D scene understanding at the intersect
 <span style="vertical-align:-90%"> </span><br>
 I spent my last summer at <a href="https://intvo.com">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com">ZS</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
     </td> 
+    
     <td valign="center" width="30%">
       <!-- Image -->
       <center><img src='/img/danish.jpg'  class="img1" width="70%"></center>
