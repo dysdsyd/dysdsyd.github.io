@@ -19,9 +19,9 @@ show-avatar: false
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
-        I am a final year Masters student in electrical & computer science at the [University of Michigan](https://umich.edu) specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
+        I am a final year Masters student in electrical & computer science at the <a href="https://umich.edu">University of Michigan</a> specialization in the Computer Vision track. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
-Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with [Justin Johnson](https://web.eecs.umich.edu/~justincj/) and [Matias del Campo](https://taubmancollege.umich.edu/faculty/directory/matias-del-campo) ([AR<sup>2</sup>IL](https://ar2il.com)). I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at [ZS](https://www.zs.com), where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
+Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a> and <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> ([AR<sup>2</sup>IL](https://ar2il.com)). I spent my last summer at [Intvo](https://intvo.com) working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com">[ZS]</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
     </td> 
   </tbody>
 </table>
