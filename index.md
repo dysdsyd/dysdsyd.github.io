@@ -15,7 +15,8 @@ show-avatar: false
   <tbody>
     <td width="30%">
       <!-- Image -->
-      <center><img src='/img/me.png'  class="img1" width="70%"></center>
+      <center><img src='/img/me.png'  class="img1" width="90%"></center>
+      <span style="vertical-align:50%"> </span><br>
       <center>
         <ul class="list-inline text-center footer-links">
           {%- for link in site.social-network-links -%}
