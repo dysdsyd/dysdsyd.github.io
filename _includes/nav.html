@@ -1,9 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom col-lg-12 col-md-12">
-  {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
-  {%- elsif site.title -%}
-    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
-  {%- endif -%}
+  <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 col-md-12">
