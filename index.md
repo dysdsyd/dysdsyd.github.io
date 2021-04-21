@@ -17,7 +17,7 @@ I recieved my Masters degree in Electrical & Computer Science from University of
 <span style="vertical-align:-90%"> </span><br>
 Feel free to say hi: **dasyed at umich dot edu**
 <span style="vertical-align:-90%"> </span><br>
-➕ Offering help: Feel free to book a slot on my [calendar](https://calendly.com/dasyed/meet-with-danish) to talk about grad school admissions, computer vision or something else. 
+➕ **[Offering help](https://calendly.com/dasyed/meet-with-danish)**: Feel free to book a slot on my [calendar](https://calendly.com/dasyed/meet-with-danish) to talk about grad school admissions, computer vision or something else. 
 <br>
 ### News
 ---
