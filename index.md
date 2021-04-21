@@ -15,7 +15,7 @@ show-avatar: false
   <tbody>
     <td valign="center" width="30%">
       <!-- Image -->
-      <center><img src='/img/me.png'  class="img1" width="80%"></center>
+      <center><img src='/img/profile.jpg'  class="img1" width="80%"></center>
       <span style="vertical-align:20%"> </span><br>
       <center>
         <ul class="list-inline text-center footer-links">
@@ -24,7 +24,7 @@ show-avatar: false
           {%- assign element = site.data.SocialNetworks[curkey] -%}
           <li>
             {%- if curkey == 'rss' -%}
-            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+            <a href="{{ '/feed.xml' | pr-epend: site.baseurl }}" title="{{ element.name }}">
             {%- elsif curkey == 'yelp' -%}
               <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
             {%- else -%}
@@ -43,7 +43,7 @@ show-avatar: false
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
-        I am a final year Masters student in electrical & computer science at the <a href="https://umich.edu">University of Michigan</a>. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
+        I am a Masters student in electrical & computer science at the <a href="https://umich.edu">University of Michigan</a>. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
 Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a> and <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> <a href="https://ar2il.com">AR<sup>2</sup>IL</a>. 
 <span style="vertical-align:-90%"> </span><br>
