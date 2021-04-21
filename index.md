@@ -17,26 +17,27 @@ show-avatar: false
       <!-- Image -->
       <center><img src='/img/me.png'  class="img1" width="70%"></center>
       <center>
-      <ul id="social-media-ul">
-        <li class="social-media">
-          <a target="_blank" href="https://github.com/dysdsyd" itemprop="sameAs">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i>
-            <span>dysdsyd</span>
-          </a>
-        </li>
-        <li class="social-media">
-          <a target="_blank" href="https://twitter.com/dysdsyd" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
-            <span>dysdsyd</span>
-          </a>
-        </li>
-        <li class="social-media">
-          <a target="_blank" href="https://www.linkedin.com/in/dysdsyd" itemprop="sameAs">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>
-            <span>dysdsyd</span>
-          </a>
-        </li>
-    </ul>
+        <ul class="list-inline text-center footer-links">
+          {%- for link in site.social-network-links -%}
+          {%- assign curkey = link[0] -%}
+          {%- assign element = site.data.SocialNetworks[curkey] -%}
+          <li>
+            {%- if curkey == 'rss' -%}
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+            {%- elsif curkey == 'yelp' -%}
+              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+            {%- else -%}
+               <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+            {%- endif -%}
+                 <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">{{ element.name }}</span>
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
     </center>
     </td>
     <!-- Paper Info -->
