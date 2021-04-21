@@ -22,7 +22,7 @@ I spent my last summer at <a href="https://intvo.com">Intvo</a> working on a ped
 **[06/2020]** &nbsp;&nbsp;&nbsp;&nbsp;Spending summer at at [Intvo Inc](https://intvo.com) as Computer Vision Engineer Intern   
 **[09/2019]** &nbsp;&nbsp;&nbsp;&nbsp;Started as a Masters student at the [University of Michigan](https://umich.edu)!  
 <br>
-<table style="background-color:#f8f8f8">
+<div style="background-color:#f8f8f8">
 ### Publications
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
@@ -52,6 +52,7 @@ I spent my last summer at <a href="https://intvo.com">Intvo</a> working on a ped
   </tbody>
 </table>
 <br>
+
 ### Projects
 ---
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
@@ -65,7 +66,7 @@ A Bi-Directional Attention Flow network based web app for health-care researcher
 
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
 Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
-</table>
+</div>
 <br>
 ### Teaching
 ---
