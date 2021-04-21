@@ -45,7 +45,7 @@ show-avatar: false
     <td valign="center" width="70%">
         I am a Masters student in electrical & computer science at the <a href="https://umich.edu">University of Michigan</a>. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. 
 <span style="vertical-align:-90%"> </span><br>
-Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a> and <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> <a href="https://ar2il.com">AR<sup>2</sup>IL</a>. 
+Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a> and <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> (<a href="https://ar2il.com">AR<sup>2</sup>IL</a>). 
 <span style="vertical-align:-90%"> </span><br>
 I spent my last summer at <a href="https://intvo.com">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com">[ZS]</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
     </td> 
