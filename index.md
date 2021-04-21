@@ -11,9 +11,15 @@ show-avatar: true
     }
 </style>
 
-I am a Masters student in electrical & computer science at the <a href="https://umich.edu">University of Michigan</a>. I am interested in developing agents that can learn to understand the underlying representation of our 3D world through observation and/or interaction. Towards this end, I have been working on 3D scene understanding at the intersection of AI & Architecture with <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a> and <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo">Matias del Campo</a> (<a href="https://ar2il.com">AR<sup>2</sup>IL</a>). 
+Hi 👋 , I am a Computer Vision Researcher at the Architecture and Artificial Intellignence Lab (<a href="https://ar2il.com">AR<sup>2</sup>IL</a>), University of Michigan working with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> and <a href="https://web.eecs.umich.edu/~justincj/" target="_blank">Justin Johnson</a>. 
 <span style="vertical-align:-90%"> </span><br>
-I spent my last summer at <a href="https://intvo.com">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com">ZS</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
+My research interests lies in developing agents that can learn to understand the underlying representation of our 3D world and power real-world applications for 3D scene generation. 
+<span style="vertical-align:-90%"> </span><br>
+I recieved my Masters degree in Electrical & Computer Science from University of Michigan, Ann Arbor. During my masters, I spent my summer at <a href="https://intvo.com">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com">ZS Associates</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
+<span style="vertical-align:-90%"> </span><br>
+Feel free to say hi: **dasyed at umich dot edu**
+<span style="vertical-align:-90%"> </span><br>
+➕ Offering help: Feel free to book a slot on my [calendar](https://calendly.com/dasyed/meet-with-danish) to talk about grad school admissions, computer vision or something else. 
 <br>
 ### News
 ---
@@ -111,3 +117,4 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     </td> 
   </tbody>
 </table>
+
