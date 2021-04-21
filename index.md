@@ -16,6 +16,28 @@ show-avatar: false
     <td width="30%">
       <!-- Image -->
       <center><img src='/img/me.png'  class="img1" width="70%"></center>
+      <center>
+      <ul id="social-media-ul">
+        <li class="social-media">
+          <a target="_blank" href="https://github.com/dysdsyd" itemprop="sameAs">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i>
+            <span>dysdsyd</span>
+          </a>
+        </li>
+        <li class="social-media">
+          <a target="_blank" href="https://twitter.com/dysdsyd" itemprop="sameAs">
+            <i class="fab fa-fw fa-twitter" aria-hidden="true"></i>
+            <span>dysdsyd</span>
+          </a>
+        </li>
+        <li class="social-media">
+          <a target="_blank" href="https://www.linkedin.com/in/dysdsyd" itemprop="sameAs">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>
+            <span>dysdsyd</span>
+          </a>
+        </li>
+    </ul>
+    </center>
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
