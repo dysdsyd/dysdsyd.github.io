@@ -3,7 +3,7 @@ layout: page
 title: ''
 use-site-title: true
 published: true
-show-avatar: false
+show-avatar: true
 ---
 <style>
   .img1 {
