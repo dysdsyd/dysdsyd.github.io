@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ''
-subtitle: 'dasyed [at] umich [dot] edu'
 use-site-title: true
 published: true
 show-avatar: false
