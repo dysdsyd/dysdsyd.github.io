@@ -15,7 +15,7 @@ show-avatar: false
   <tbody>
     <td width="30%">
       <!-- Image -->
-      <center><img src='/img/me.png'  class="img1" width="90%"></center>
+      <center><img src='/img/me.png'  class="img1" width="80%"></center>
       <span style="vertical-align:50%"> </span><br>
       <center>
         <ul class="list-inline text-center footer-links">
