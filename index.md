@@ -30,7 +30,7 @@ Towards this end, I have been working on 3D scene understanding at the intersect
   <tbody>
     <td width="30%">
       <!-- Image -->
-      <center><img src='/img/deepg.png'  class="img1" width="70%"></center>
+      <center><a href="https://dysdsyd.github.io/2020-12-14-deepgamble/"><img src='/img/deepg.png'  class="img1" width="70%"></a></center>
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
