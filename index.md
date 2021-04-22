@@ -10,7 +10,7 @@ show-avatar: true
     border-radius: 50%;
     }
 </style>
-### Hi 👋 
+### Hello there!  
 ---
 I am a Computer Vision Researcher at the Architecture and Artificial Intellignence Lab **( <a href="https://ar2il.com">AR<sup>2</sup>IL</a> )** working with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> and <a href="https://web.eecs.umich.edu/~justincj/" target="_blank">Justin Johnson</a>. My research interests lies in developing agents that can learn to understand the underlying representation of our 3D world and power real-world applications for steerable 3D scene generation. 
 <span style="vertical-align:-90%"> </span><br>
