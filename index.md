@@ -7,7 +7,7 @@ show-avatar: true
 ---
 <style>
   .img1 {
-    border-radius: 10%;
+    border-radius: 4%;
     }
 </style>
 ### Hello there!  
