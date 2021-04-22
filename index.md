@@ -34,7 +34,7 @@ Feel free to say hi: **dasyed at umich dot edu**
   <tbody>
     <td valign="center" width="30%">
       <!-- Image -->
-      <center><a href="https://dysdsyd.github.io/2020-12-14-deepgamble/"><img src='/img/deepg.png'  class="img1" width="70%"></a></center>
+      <center><a href="https://dysdsyd.github.io/2020-12-14-deepgamble/"><img src='/img/deepg.png'  style="border-radius: 20%" width="70%"></a></center>
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
