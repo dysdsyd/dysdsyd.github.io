@@ -85,17 +85,17 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <!-- Teaching part -->
     <td valign="center" width="70%">       
       <p>
-        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/">EECS 442</a>: Computer Vision (Winter '21)<br>
+        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/">EECS 442</a>: Computer Vision (Winter 2021)<br>
         GSI with <a href="https://cs.stanford.edu/people/jcjohns/" target="_blank">Justin Johnson</a> & <a href="https://web.eecs.umich.edu/~fouhey/" target="_blank">David Fouhey</a>
         
         <span style="vertical-align:-95%"> </span><br>
         
-        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/" target="_blank">EECS 598</a>: Deep Learning for Computer Vision (Fall '20)<br>
+        <a href="https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/" target="_blank">EECS 598</a>: Deep Learning for Computer Vision (Fall 2020)<br>
         GSI with <a href="https://cs.stanford.edu/people/jcjohns/" target="_blank">Justin Johnson</a>
         
         <span style="vertical-align:-95%"> </span><br>
         
-        <a href="https://arch-ai.org/" target="_blank">Arch 662</a>: Architecture & Artificial Intelligence (Winter '20)<br>
+        <a href="https://arch-ai.org/" target="_blank">Arch 662</a>: Architecture & Artificial Intelligence (Winter 2020)<br>
         TA with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> & Sandra Manninger
       </p>
     </td> 
@@ -112,7 +112,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
     <!-- Teaching part -->
     <td valign="center" width="70%">       
       <p>    
-        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger" target="_blank">Deepdesign</a>: Architecture & 3D Neural Networks (Summer '20)<br>
+        <a href="https://www.digitalfutures.world/workshops-americas-blog/delcampo-manninger" target="_blank">Deepdesign</a>: Architecture & 3D Neural Networks (Summer 2020)<br>
         Instructor with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> & Sandra Manninger
 
       </p>
