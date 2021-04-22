@@ -7,7 +7,7 @@ show-avatar: true
 ---
 <style>
   .img1 {
-    border-radius: 50%;
+    border-radius: 20%;
     }
 </style>
 ### Hello there!  
@@ -34,7 +34,7 @@ Feel free to say hi: **dasyed at umich dot edu**
   <tbody>
     <td valign="center" width="30%">
       <!-- Image -->
-      <center><a href="https://dysdsyd.github.io/2020-12-14-deepgamble/"><img src='/img/deepg.png'  style="border-radius: 20%" width="70%"></a></center>
+      <center><a href="https://dysdsyd.github.io/2020-12-14-deepgamble/"><img src='/img/deepg.png'  class="img1" width="70%"></a></center>
     </td>
     <!-- Paper Info -->
     <td valign="center" width="70%">
@@ -77,7 +77,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
   <tbody>
     <!-- Image -->
     <td valign="center" width="30%">
-      <center> <img src='/img/um.jpg' width="70%" style="border-radius: 20%"> </center>
+      <center> <img src='/img/um.jpg' width="70%" class="img1"> </center>
     </td>
     <!-- Teaching part -->
     <td valign="center" width="70%">       
@@ -104,7 +104,7 @@ Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classif
   <tbody>
     <!-- Image -->
     <td valign="center" width="30%">
-      <center> <img src='/img/deepdesign.jpeg' width="70%" style="border-radius: 20%"> </center>
+      <center> <img src='/img/deepdesign.jpeg' width="70%" class="img1"> </center>
     </td>
     <!-- Teaching part -->
     <td valign="center" width="70%">       
