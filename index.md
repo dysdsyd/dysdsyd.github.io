@@ -74,7 +74,6 @@ An end-to-end conditional GAN framework for generating 3D objects from single RG
 <span style="vertical-align:-90%"> </span><br>
 **MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
-<span style="vertical-align:-90%"> </span><br>
 <br>
 ### Teaching
 ---
