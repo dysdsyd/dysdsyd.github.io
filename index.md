@@ -62,7 +62,7 @@ Feel free to say hi: **dasyed at umich dot edu**
 
 ### Projects
 ---
-**VO_benchmark** [report](https://dysdsyd.github.io/files/VO_benchmark.pdf) | [code](https://github.com/dysdsyd/VO_benchmark) | [video](https://www.youtube.com/watch?v=MYon6Fa6i3o&feature=youtu.be)
+**VO_benchmark** [report](https://dysdsyd.github.io/files/VO_benchmark.pdf) | [code](https://github.com/dysdsyd/VO_benchmark) | [video](https://www.youtube.com/watch?v=MYon6Fa6i3o&feature=youtu.be)  
 A comparative study of various detector-descriptor combinations used in Visual Odometry to explore
 the effect of semantic understanding in localization for SE(3) poses.
 
