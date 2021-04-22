@@ -65,16 +65,16 @@ Feel free to say hi: **dasyed at umich dot edu**
 **VO_benchmark** [report](https://dysdsyd.github.io/files/VO_benchmark.pdf) | [code](https://github.com/dysdsyd/VO_benchmark) | [video](https://www.youtube.com/watch?v=MYon6Fa6i3o&feature=youtu.be)  
 A comparative study of various detector-descriptor combinations used in Visual Odometry to explore
 the effect of semantic understanding in localization for SE(3) poses.
-
+<span style="vertical-align:-90%"> </span><br>
 **SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
 A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.
-
+<span style="vertical-align:-90%"> </span><br>
 **SICGAN** [report](https://dysdsyd.github.io/files/SICGAN.pdf) | [code](https://github.com/dysdsyd/SICGAN)  
 An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
-
+<span style="vertical-align:-90%"> </span><br>
 **MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
 A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
-
+<span style="vertical-align:-90%"> </span><br>
 **Planet: Understanding the Amazon from Space** [code](https://github.com/EKami/planet-amazon-deforestation) | [kaggle](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)  
 Worked on a Kaggle problem hosted by [Planet](https://www.planet.com) to classify atmospheric conditions and land cover type of satellite images.
 <br>
