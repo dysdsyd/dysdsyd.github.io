@@ -23,7 +23,7 @@ description: Space
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "http://dysdsyd.github.io/files/danish_CV.pdf"
+  #CV: "http://dysdsyd.github.io/files/danish_CV.pdf"
   Home: "http://dysdsyd.github.io"
   #Notes: 
   #  - 3D Computer Vision: "sprint1"
