@@ -17,7 +17,7 @@ show-avatar: true
 ---
 I am a Computer Vision Researcher at the Architecture and Artificial Intelligence Lab **( <a href="https://ar2il.com">AR<sup>2</sup>IL</a> )** working with <a href="https://taubmancollege.umich.edu/faculty/directory/matias-del-campo" target="_blank">Matias del Campo</a> and <a href="https://web.eecs.umich.edu/~justincj/" target="_blank">Justin Johnson</a>. My research interests lies in developing agents that can learn to understand the underlying representation of our 3D world and power real-world applications for steerable 3D scene generation. 
 <span style="vertical-align:-90%"> </span><br>
-I recieved my Masters degree in Electrical & Computer Science from University of Michigan, Ann Arbor. During my masters, I spent my summer at <a href="https://intvo.com" target="_blank">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com" target="_blank">ZS Associates</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
+I received my Master's degree in Electrical & Computer Science from University of Michigan, Ann Arbor. During my masters, I spent my summer at <a href="https://intvo.com" target="_blank">Intvo</a> working on a pedestrian intent estimation framework in the context of ego-centric vehicles. Previously, I worked at <a href="https://www.zs.com" target="_blank">ZS Associates</a>, where I applied the concepts of Computer Vision and NLP to innovate solutions across Healthcare, Gaming and Software industry.
 <span style="vertical-align:-90%"> </span><br>
 Feel free to say hi: **dasyed at umich dot edu**
 <span style="vertical-align:-90%"> </span><br>
