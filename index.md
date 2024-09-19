@@ -15,11 +15,7 @@ show-avatar: true
 </style>
 ### Hello there!  
 ---
-Updating...
-<span style="vertical-align:-90%"> </span><br>
-Feel free to say hi: **dasyed at umich dot edu**
-<span style="vertical-align:-90%"> </span><br>
-👋 **[Offering help](https://calendly.com/dasyed/meet-with-danish)**: Feel free to book a slot on my [calendar](https://calendly.com/dasyed/meet-with-danish) to talk about grad school, computer vision, etc. 
+I am experimenting with [notion](https://www.notion.so/) + [super](https://super.so/) to build my new website. Check it our [here](https://danishsyed.super.site/). 
 <br>
 ### News
 ---
@@ -58,21 +54,7 @@ Feel free to say hi: **dasyed at umich dot edu**
 </table>
 <br>
 
-### Projects
----
-**VO_benchmark** [report](https://dysdsyd.github.io/files/VO_benchmark.pdf) | [code](https://github.com/dysdsyd/VO_benchmark) | [video](https://www.youtube.com/watch?v=MYon6Fa6i3o&feature=youtu.be)  
-A comparative study of various detector-descriptor combinations used in Visual Odometry to explore
-the effect of semantic understanding in localization for SE(3) poses.
-<span style="vertical-align:-90%"> </span><br>
-**SPPFNet** [report](https://dysdsyd.github.io/files/SPPFNet.pdf)  
-A particle filter based end-to-end pose estimator where each particle learns latent embedding to infer pose, object likelihood, and re-sampling objective iteratively.
-<span style="vertical-align:-90%"> </span><br>
-**SICGAN** [report](https://dysdsyd.github.io/files/SICGAN.pdf) | [code](https://github.com/dysdsyd/SICGAN)  
-An end-to-end conditional GAN framework for generating 3D objects from single RGB image. It was able to get better qualitative 3D reconstructions as compared to the baseline.
-<span style="vertical-align:-90%"> </span><br>
-**MedLens** [code](https://github.com/dysdsyd/MedLens) | [demo](https://www.youtube.com/watch?v=jJbxu7q9t5E)  
-A Bi-Directional Attention Flow network based web app for health-care researchers which answers factual questions based on uploaded documents or searched on PubMed database  
-<br>
+
 ### Teaching
 ---
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
